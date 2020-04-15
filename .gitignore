@@ -4,3 +4,11 @@ _site/
 .jekyll-cache
 Gemfile.lock
 *.gem
+
+# generate files
+css/
+fonts/
+images/
+js/
+
+/*.html
