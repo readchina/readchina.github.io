@@ -1,0 +1,36 @@
+# site settings
+title: READCHINA
+subtitle: The politics of reading in the PRC
+email: youremailaddress@gmail.com
+description: ERC Starting Grant Conducted by Jun.-Prof. Dr. Lena Henningsen June 2018 - May 2023
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://readchina.github.io
+author: READCHINA
+street_address: Belfortstr. 18 Rooms 03 004-05
+city: Freiburg
+state: BW
+zip_code: 79098
+country: Germany
+phone: +49 (xxx) xxx-xxxx
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+# 500px_url:
+# facebook_url:
+github_url: https://github.com/readchina
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# instagram_url: https://instagram.com
+# linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+# pinterest_url:
+# slack_url:
+twitter_url: https://twitter.com/readchina
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
