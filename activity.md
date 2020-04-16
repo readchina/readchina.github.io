@@ -2,11 +2,11 @@
 layout: allposts
 title: Activity
 landing-title: 'Activity'
-nav-menu: true
-description: null
-image: null
+description: 'talks, events, etc.'
+image: assets/images/pic08.jpg
 author: null
-show_tile: false
+nav-menu: true
+show_tile: true
 ---
 
-<h1>Activity</h1>
+# Activity
