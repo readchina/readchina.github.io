@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about us
+title: About us
 nav-menu: true
 ---
 
