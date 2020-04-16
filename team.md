@@ -1,5 +1,5 @@
 ---
-title: team
+title: Team
 layout: landing
 description: 'Meet our Team'
 image: assets/images/pic07.jpg

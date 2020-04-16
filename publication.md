@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 nav-menu: true
 show_tile: true
 ---
@@ -27,14 +27,14 @@ show_tile: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>Henningsen, Lena 2019</td>
+				<td>“Literature of the Cultural Revolution”, in: Gu, Ming Dong [ed.]: Routledge Handbook of Modern Chinese Literature, Oxon: Routledge, 423-434.</td>
+				<td>--</td>
 			</tr>
 			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
+				<td>Henningsen, Lena 2019</td>
+				<td>“Kosmopolitisches Lesen: Weltliteratur während der chinesischen Kulturrevolution”, in: Dieter Lamping [ed.]: Vergleichende Weltliteraturen, Stuttgart: Metzler, 235-251.</td>
+				<td>--</td>
 			</tr>
 		</tbody>
 	</table>
