@@ -4,6 +4,14 @@ _site/
 .jekyll-cache
 Gemfile.lock
 *.gem
+*.xpr
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
 
 # generate files
 /css/
