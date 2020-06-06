@@ -11,46 +11,62 @@
 <body>
 
     {% include header.html %}
+    <div id="main" class="alt">
+    <section id="one">
+    	<div class="inner">
 
-    {{ content }}
+        {{ content }}
 
-    <div id="vis"></div>
+        <div id="vis"></div>
 
-        <script>
-          // Assign the specification to a local variable vlSpec.
-          var vlSpec = {
-            $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
-            data: {
-              values: [
-                {a: 'C', b: 2},
-                {a: 'C', b: 7},
-                {a: 'C', b: 4},
-                {a: 'D', b: 1},
-                {a: 'D', b: 2},
-                {a: 'D', b: 6},
-                {a: 'E', b: 8},
-                {a: 'E', b: 4},
-                {a: 'E', b: 7}
-              ]
-            },
-            mark: 'bar',
-            encoding: {
-              y: {field: 'a', type: 'nominal'},
-              x: {
-                aggregate: 'average',
-                field: 'b',
-                type: 'quantitative',
-                axis: {
-                  title: 'Average of b'
+            <script>
+            // get the datapackage.json from data repo
+            let url = 'https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/datapackage.json';
+
+            fetch(url)
+            .then(res => res.json())
+            .then((out) => {
+            console.log('Checkout this JSON! ', out);
+            })
+            .catch(err => { throw err });
+
+              // Assign the specification to a local variable vlSpec.
+              var vlSpec = {
+                $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+                data: {
+                  values: [
+                    {a: 'C', b: 2},
+                    {a: 'C', b: 7},
+                    {a: 'C', b: 4},
+                    {a: 'D', b: 1},
+                    {a: 'D', b: 2},
+                    {a: 'D', b: 6},
+                    {a: 'E', b: 8},
+                    {a: 'E', b: 4},
+                    {a: 'E', b: 7}
+                  ]
+                },
+                mark: 'bar',
+                encoding: {
+                  y: {field: 'a', type: 'nominal'},
+                  x: {
+                    aggregate: 'average',
+                    field: 'b',
+                    type: 'quantitative',
+                    axis: {
+                      title: 'Average of b'
+                    }
+                  }
                 }
-              }
-            }
-          };
+              };
 
-          // Embed the visualization in the container with id `vis`
-          vegaEmbed('#vis', vlSpec);
-        </script>
+              // Embed the visualization in the container with id `vis`
+              vegaEmbed('#vis', vlSpec);
+            </script>
 
+  </div>
+  </section>
+  </div>
     {% include footer.html %}
 
 </body>
