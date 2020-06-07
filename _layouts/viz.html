@@ -18,52 +18,23 @@
         {{ content }}
 
         <div id="vis"></div>
-
+        <!-- we are relying on browser cache here not nice but works -->
+          {% for v in page.view %}
             <script>
-            // get the datapackage.json from data repo
-            let url = 'https://raw.githubusercontent.com/readchina/ReadingData/docker-db/csv/datapackage.json';
+            // get the datapackage.json from data repo all views are specified in this file
+            var datapackage = 'https://raw.githubusercontent.com/readchina/ReadingData/master/csv/datapackage.json';
 
-            fetch(url)
+            fetch(datapackage)
             .then(res => res.json())
             .then((out) => {
-            console.log('Checkout this JSON! ', out);
+            // console.log('Check this JSON! ', out.views[0].resources.spec);
+
+            vegaEmbed('#{{ v.view-name }}', out.views[{{ v.view-index }}].resources.spec);
             })
             .catch(err => { throw err });
 
-              // Assign the specification to a local variable vlSpec.
-              var vlSpec = {
-                $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
-                data: {
-                  values: [
-                    {a: 'C', b: 2},
-                    {a: 'C', b: 7},
-                    {a: 'C', b: 4},
-                    {a: 'D', b: 1},
-                    {a: 'D', b: 2},
-                    {a: 'D', b: 6},
-                    {a: 'E', b: 8},
-                    {a: 'E', b: 4},
-                    {a: 'E', b: 7}
-                  ]
-                },
-                mark: 'bar',
-                encoding: {
-                  y: {field: 'a', type: 'nominal'},
-                  x: {
-                    aggregate: 'average',
-                    field: 'b',
-                    type: 'quantitative',
-                    axis: {
-                      title: 'Average of b'
-                    }
-                  }
-                }
-              };
-
-              // Embed the visualization in the container with id `vis`
-              vegaEmbed('#vis', vlSpec);
             </script>
-
+            {% endfor %}
   </div>
   </section>
   </div>
