@@ -1,5 +1,13 @@
 /* viz */
+
+// not: the style conf has to be passed as object to the vega embed function on viz.html
 .viz {
   width: 100%;
   overflow: scroll;
+}
+
+.vg-tooltip {
+  h2 {
+    color: black;
+  }
 }
