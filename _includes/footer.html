@@ -24,7 +24,7 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
+					<span class="icon alt fa-at"></span>
 					<h3>Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
@@ -67,6 +67,7 @@
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
+				<li><a href="#contact" class="button icon fa-envelope" onclick="toggleContact()">Contact</a></li>
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
