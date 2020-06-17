@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+    <div id="main" class="alt">
+    <section id="one">
+    	<div class="inner">
+
+        {{ content }}
+
+        <div id="vis"></div>
+        <!-- we are relying on browser cache here not nice but works -->
+          {% for v in page.view %}
+            <script>
+            // get the datapackage.json from data repo all views are specified in this file
+            var datapackage = 'https://raw.githubusercontent.com/readchina/ReadAct/master/csv/datapackage.json';
+
+            fetch(datapackage)
+            .then(res => res.json())
+            .then((out) => {
+            // console.log('Check this JSON! ', out.views[0].resources.spec);
+
+            vegaEmbed('#{{ v.view-name }}', out.views[{{ v.view-index }}].resources.spec, {config: {
+  "background": "#242943",
+  "title": {"color": "#fff"},
+  "style": {"guide-label": {"fill": "#fff"}, "guide-title": {"fill": "#fff"}},
+  "axis": {"domainColor": "#fff", "gridColor": "#888", "tickColor": "#fff"}
+}});
+            })
+            .catch(err => { throw err });
+
+            </script>
+            {% endfor %}
+  </div>
+  </section>
+  </div>
+    {% include footer.html %}
+
+</body>
+
+</html>

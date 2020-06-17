@@ -50,6 +50,17 @@ img {
 			}
 		}
 
+    &.logo {
+      display: block;
+      margin: 0 0 _size(element-margin) 0;
+      width: 100%;
+
+      img {
+        width: auto;
+        height: 80px;
+      }
+    }
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;

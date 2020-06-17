@@ -24,18 +24,18 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
+					<span class="icon alt fa-at"></span>
 					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
-			<section>
+			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<span>{{ site.phone }}</span>
 				</div>
-			</section>
+			</section> -->
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -48,7 +48,7 @@
 					    {{ site.city }},
 					{% endif %}
 					{% if site.state %}
-					    {{ site.state }} 
+					    {{ site.state }}
 					{% endif %}
 					{% if site.zip_code %}
 					    {{ site.zip_code }}<br />
@@ -67,6 +67,7 @@
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
+				<li><a href="#contact" class="button icon fa-envelope" onclick="toggleContact()">Contact</a></li>
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
@@ -98,6 +99,29 @@
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
 			</ul>
+			<div class="row uniform">
+				<div class="4u 12u$(small)">
+					<span class="image logo">
+						<a href="https://readchina.github.io/">
+						<img src="/assets/images/logo02-readc.png"/>
+						</a>
+					</span>
+				</div>
+				<div class="4u 12u$(small)">
+				<span class="image logo">
+					<a href="https://erc.europa.eu">
+					<img src="/assets/images/logo01-erc.jpg"/>
+					</a>
+				</span>
+				</div>
+				<div class="4u 12u$(small)">
+				<span class="image logo">
+					<a href="https://www.uni-freiburg.de">
+					<img src="/assets/images/logo03-uni.png"/>
+					</a>
+				</span>
+				</div>
+			</div>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
