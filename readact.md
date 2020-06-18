@@ -18,9 +18,9 @@ view:
 
 The *ReadAct* database was originally developed as part of the Worlds of Reading in China’s long 1970s research project. [*Lesewelten*](http://www.sinologie.uni-freiburg.de/forschung/projecthenningsen). It is under active development as part of  [*READCHINA*](https://readchina.github.io/).
 
-*ReadAct* provides various interfaces for users to interact with its data. This page contains visualizations of our data along with explanatory prose about the research questions that behind their generation. The views are updated automatically and reflect the latest stage of our ongoing work on *ReadAct*. Feel free to explore and interact with the views by selecting `Open in Vega Editor` from the menu button on any data visualization.
+*ReadAct* provides various interfaces for users to interact with its data. This page contains short snippets of data analysis based different data views. For fuller analysis please consult the publications section of our homepage, these short stories however provide us the opportunity for quick explorations based on our overarching research questions. The views are updated automatically and reflect the latest stage of our ongoing work on *ReadAct*. Feel free to explore and interact with the views by selecting `Open in Vega Editor` from the menu button on any data visualization.
 
-For a more advanced means of interacting with out dataset, please follow the link above to our data repository, which contains a SQL database and additional tools for searching and mangling our data. To cite our dataset please use the `DOI` link at the top of this page, to generate a citation in accordance with your citation style requirements.
+For a more advanced means of interacting with our dataset, please follow the link above to our data repository, which contains a SQL database and additional tools for searching and mangling our data. To cite our dataset please use the `DOI` link at the top of this page, to generate a citation in accordance with your citation style requirements.
 
 ### Reading books (and more)
 One of the first questions one might ask, is which books have been read during the cultural revolution? Digging through to autobiographical accounts we can see that *The Water Margin* a novel about … was the most widely read novel.
