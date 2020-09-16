@@ -29,6 +29,12 @@ show_tile: true
 		</thead>
 		<tbody>
 			<tr>
+				<td>Henningsen, Lena (mit Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler und Sen Wei)</td>				
+				<td>“Little Smarty Travels to the Future”, in: MCLC Resource Center, Sept. 16, 2020.</td>
+				<td>2020</td>
+				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/" target="_blank" rel="noopener noreferrer">https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/</a></td>
+			</tr>
+			<tr>
 				<td>Henningsen, Lena</td>				
 				<td>“Literature of the Cultural Revolution”, in: Gu, Ming Dong [ed.]: Routledge Handbook of Modern Chinese Literature, Oxon: Routledge, 423-434.</td>
 				<td>2019</td>
