@@ -24,12 +24,12 @@ show_tile: true
 				<th>Author</th>
 				<th>Title</th>
 				<th>Year</th>
-				<th>DOI</th>
+				<th>DOI / URL</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Henningsen, Lena (mit Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler und Sen Wei)</td>				
+				<td>Henningsen, Lena (with Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler and Sen Wei)</td>				
 				<td>“Little Smarty Travels to the Future”, in: MCLC Resource Center, Sept. 16, 2020.</td>
 				<td>2020</td>
 				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/" target="_blank" rel="noopener noreferrer">https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/</a></td>
