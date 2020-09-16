@@ -17,6 +17,8 @@ show_tile: true
 
 <!-- Content -->
 
+<p> In this section, all publications by the READCHINA team will be listed ongoingly.</p>
+
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -24,10 +26,16 @@ show_tile: true
 				<th>Author</th>
 				<th>Title</th>
 				<th>Year</th>
-				<th>DOI</th>
+				<th>DOI / URL</th>
 			</tr>
 		</thead>
 		<tbody>
+			<tr>
+				<td>Henningsen, Lena (with Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler and Sen Wei)</td>				
+				<td>“Little Smarty Travels to the Future”, in: MCLC Resource Center, Sept. 16, 2020.</td>
+				<td>2020</td>
+				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/" target="_blank" rel="noopener noreferrer">https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/</a></td>
+			</tr>
 			<tr>
 				<td>Henningsen, Lena</td>				
 				<td>“Literature of the Cultural Revolution”, in: Gu, Ming Dong [ed.]: Routledge Handbook of Modern Chinese Literature, Oxon: Routledge, 423-434.</td>
