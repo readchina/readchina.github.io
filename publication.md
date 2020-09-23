@@ -17,6 +17,8 @@ show_tile: true
 
 <!-- Content -->
 
+<p> In this section, all publications by the READCHINA team will be listed ongoingly.</p>
+
 <div class="table-wrapper">
 	<table>
 		<thead>
