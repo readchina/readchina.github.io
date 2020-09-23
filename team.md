@@ -2,7 +2,7 @@
 title: Team
 layout: landing
 description: 'Get to know the READCHINA team——and feel free to reach out!'
-image: assets/images/pic07.jpg
+image:
 nav-menu: true
 ---
 
