@@ -2,7 +2,7 @@
 title: Team
 layout: landing
 description: 'Meet our Team'
-image: assets/images/pic07.jpg
+image:
 nav-menu: true
 ---
 
