@@ -10,14 +10,8 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>READCHINA Team</h2>
-		</header>
-		<p>Meet the members of our research group.</p>
-	</div>
-</section>
+<p> Get to know the READCHINA team——and feel free to reach out!
+</p>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -53,9 +47,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-<!-- Three -->
-<section id="three" class="spotlights">
 	<section>
 		<a href="team/duncan.html" class="image">
 			<img src="{% link /assets/images/pic02.jpg %}" alt="" data-position="top center" />
@@ -88,25 +79,21 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Four -->
-<section id="four" class="spotlights">
-
-	<a href="team/lena.html" class="image">
-		<img src="{% link /assets/images/pic05.jpg %}" alt="" data-position="25% 25%" />
-	</a>
-	<div class="content">
-		<div class="inner">
-			<header class="major">
-				<h3>Lena Henningsen (PI)</h3>
-			</header>
-			<p>Meta-reading, reading fiction and fictional reading.</p>
-			<ul class="actions">
-				<li><a href="team/lena.html" class="button">Learn more</a></li>
-			</ul>
+	<section>
+		<a href="team/lara.html" class="image">
+			<img src="{% link /assets/images/pic05.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lena Henningsen (PI)</h3>
+				</header>
+				<p>Meta-reading, reading fiction and fictional reading.</p>
+				<ul class="actions">
+					<li><a href="team/lena.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
 		</div>
-	</div>
+	</section>
 </section>
-
 </div>
