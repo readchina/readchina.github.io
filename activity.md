@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Activity
-landing-title: 'Activity'
+title: Activities
+landing-title: 'Activities'
 description: 'talks, events, etc.'
 image: assets/images/pic08.jpg
 author: null
@@ -15,7 +15,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Activitiy</h1>
+			<h1>Activities</h1>
 		</header>
 
 <!-- Content -->
