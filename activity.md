@@ -9,4 +9,16 @@ nav-menu: true
 show_tile: true
 ---
 
-# Activity
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Activitiy</h1>
+		</header>
+
+<!-- Content -->
+<p> In this section you will find announcements about all project-related activities: talks, conferences, guests, and virtual events.</p>
+
+</div>
