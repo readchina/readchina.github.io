@@ -2,7 +2,7 @@
 layout: post
 title:  Revolutionary Fibres 
 description: Materials and industrial design in Maoist China
-image: assets/images/pic06.jpg
+image:
 ---
 ### Revolutionary Fibres: Materials and industrial design in Maoist China
 
