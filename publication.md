@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: assets/images/pic03.jpg
+image: 
 nav-menu: true
 show_tile: true
 ---
