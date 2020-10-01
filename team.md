@@ -10,7 +10,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="team/lena.html" class="image">
-			<img src="{% link /assets/images/pic05.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link /assets/images/LenaHenningsen.JPG %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -26,7 +26,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="team/lara.html" class="image">
-			<img src="{% link /assets/images/pic04.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link /assets/images/LaraYuyuYang.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -42,7 +42,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="team/duncan.html" class="image">
-			<img src="{% link /assets/images/pic02.jpg %}" alt="" data-position="top center" />
+			<img src="{% link /assets/images/Paterson.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="team/eve.html" class="image">
-			<img src="{% link /assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link /assets/images/EveLin.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -74,7 +74,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="team/damian.html" class="image">
-			<img src="{% link /assets/images/pic01.jpg %}" alt="" data-position="center center" />
+			<img src="{% link /assets/images/DamianMandzunowski.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

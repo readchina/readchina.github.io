@@ -2,7 +2,7 @@
 layout: post
 title: "Lena Henningsen"
 description: "Principal Investigator"
-image: 'assets/images/pic05.jpg'
+image: 'assets/images/LenaHenningsen.JPG'
 nav-menu: false
 show_tile: false
 ---

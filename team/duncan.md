@@ -2,7 +2,7 @@
 layout: post
 title: "Duncan Paterson"
 description: "PostDoc / Data Management"
-image: 'assets/images/pic02.jpg'
+image: 'assets/images/Paterson.jpeg'
 nav-menu: false
 show_tile: false
 ---

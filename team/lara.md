@@ -2,7 +2,7 @@
 layout: post
 title: "Lara Yuyu Yang"
 description: "PostDoc"
-image: 'assets/images/pic04.jpg'
+image: 'assets/images/LaraYuyuYang.jpg'
 nav-menu: false
 show_tile: false
 ---

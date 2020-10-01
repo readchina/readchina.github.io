@@ -2,7 +2,7 @@
 layout: post
 title: "Damian Mandzunowski"
 description: "PhD Candidate"
-image: 'assets/images/pic01.jpg'
+image: 'assets/images/DamianMandzunowski.jpeg'
 nav-menu: false
 show_tile: false
 ---
