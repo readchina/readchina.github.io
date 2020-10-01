@@ -14,5 +14,6 @@ stories Nest of Insects (虫巢, 2008) by Chi Hui and G Stands For Goddess (
 <span class="image right"><img src="/assets/images/WomenSciFi_Poster_READCHINA.png" alt="" title="" style=""></span>
 
 ### Bio
+
 Frederike Schneider-Vielsäcker is a PhD candidate at the Seminar of East Asian Studies of the Free University of Berlin. Her thesis focuses on contemporary Chinese science fiction literature. She recently co-organized and
 moderated a discussion with Chinese author Chi Hui and scholar Prof. Dr. Song Mingwei at the Confucius Institute Frankfurt and co-hosted an event series with major science fiction writers from China at Kunsthaus ACUD in Berlin.
