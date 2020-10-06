@@ -3,7 +3,7 @@ layout: viz
 title: Reading Acts
 description: ReadAct
 nav-menu: true
-show_tile: true
+show_tile: false
 view:
   - view-name: view4a
     view-index: 3
