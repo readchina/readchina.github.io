@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="team/eve.html" class="image">
-			<img src="{% link /assets/images/EveLin.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link /assets/images/Evefoto1.jpeg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
