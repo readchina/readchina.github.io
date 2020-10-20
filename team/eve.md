@@ -2,7 +2,7 @@
 layout: post
 title: "Eve Lin"
 description: "PhD Candidate"
-image: 'assets/images/EveLin.png'
+image: 'assets/images/Evefoto1.jpeg'
 nav-menu: false
 show_tile: false
 ---
