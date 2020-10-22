@@ -19,7 +19,7 @@ nav-menu: true
 				</header>
 				<p>Meta-reading, reading fiction and fictional reading.</p>
 				<ul class="actions">
-					<li><a href="team/lena.html" class="button">Learn more</a></li>
+					<li><a href="team/lena.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -35,7 +35,7 @@ nav-menu: true
 				</header>
 				<p>Material traces or reading, reading used books</p>
 				<ul class="actions">
-					<li><a href="team/lara.html" class="button">Learn more</a></li>
+					<li><a href="team/lara.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -51,7 +51,7 @@ nav-menu: true
 				</header>
 				<p>Reading code, machine reading, born digital reading. </p>
 				<ul class="actions">
-					<li><a href="team/duncan.html" class="button">Learn more</a></li>
+					<li><a href="team/duncan.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -67,7 +67,7 @@ nav-menu: true
 				</header>
 				<p>Reading as consumption, and places of reading.</p>
 				<ul class="actions">
-					<li><a href="team/eve.html" class="button">Learn more</a></li>
+					<li><a href="team/eve.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -81,9 +81,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Damian Mandzunowski</h3>
 				</header>
-				<p>Collective and non-textual reading.</p>
+				<p>Collective reading activities—and their interactions with everyday life and politics.</p>
 				<ul class="actions">
-					<li><a href="team/damian.html" class="button">Learn more</a></li>
+					<li><a href="team/damian.html" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
