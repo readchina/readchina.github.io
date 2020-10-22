@@ -59,7 +59,7 @@ show_tile: true
 				<td><u>Robert Culp (Bard College):</u><i> “Patriotic young classmates . . . !” Young Readers as Authors and the Politics of Self-Mobilization through Shanghai’s Youth League Publications</i>
 				<br>
 				<br>
-				<u>Chang Liu (CUHK, Shenzhen):</u><i> Literacy for herself? Housewives’ experiences of reading in 1950s Shanghai</i></td>
+				<u>Chang Liu (CUHK, Shenzhen):</u><i> Reaching All Women? One Local Magazine and the Work Among Women in Early 1950s Shanghai </i></td>
 				<td>Emily Graf <br>(Freie Universität Berlin)</td>
 			</tr>
 			<tr>
@@ -68,7 +68,7 @@ show_tile: true
 				<td><u>Lena Henningsen (University of Freiburg):</u><i> From Intertext to Transtextuality: Reading Acts in 20th and 21st Century Chinese Literature</i>
 				<br>
 				<br>
-				<u>Lara Yang (University of Freiburg):</u><i> Dust Hunters in the Confucius-dot-com Era: Consuming and Reading Second-hand Books in the Internet Era in China</i></td>
+				<u>Lara Yang (University of Freiburg):</u><i> Dust Hunters in the Confucius-dot-com Era: Identity Ecology in Second-hand Book Reading Culture in the Time of the Internet in China </i></td>
 				<td>Michel Hockx <br>(University of Notre Dame)</td>
 			</tr>
 			<tr>
@@ -125,7 +125,7 @@ show_tile: true
 				<td><u>Eddy U (UC Davis):</u><i> Reading Literature, Reading People, and Reading Risk during the Cultural Revolution</i>
 				<br>
 				<br>
-				<u>Damian Mandzunowski (University of Freiburg):</u><i>  A Time to Work and a Time to Read: Group Reading Activities for Workers and the Struggles Between Modernisation and Ideology</i>
+				<u>Damian Mandzunowski (University of Freiburg):</u><i>  A Time to Work and a Time to Read: Group Reading Activities for Workers in Modernizing China </i>
 				</td>
 				<td>Jennifer Altehenger <br>(Oxford University)</td>
 			</tr>
