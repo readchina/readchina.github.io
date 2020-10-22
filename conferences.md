@@ -132,7 +132,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 			<tr>
 				<td><b>26.1</b></td>
 				<td>6 pm (Freiburg) <br> 12 am (New York) <br>1 am +1 (Beijing)</td>
-				<td><u>Nicolai Volland (Penn State):</u><i> </i>
+				<td><u>Nicolai Volland (Penn State):</u><i> Soviet Novel, Chinese Images</i>
 				<br>
 				<br>
 				<u>Matthew Wills (UC San Diego):</u><i> Revolution, Reading, Reward and Risk: Creating and Sustaining the Reading Nation</i>
