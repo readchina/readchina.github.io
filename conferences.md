@@ -14,36 +14,36 @@ show_tile: true
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		<p>In this section you will find announcements and links to virtual and traditional conferences organized by READCHINA.</p>
-	</div>
+		<p><i>In this section you will find announcements and links to virtual and traditional conferences organized by READCHINA.</i></p>
 
-<!-- Content -->
-
-<h2>Practices of Reading in the People’s Republic of China</h2>
-<h3>READCHINA Virtual Lecture Series (Winter 2000/2021)</h3>
-<div class="row">
-<p><span class="image right"><img src="{% link assets/images/Collective_Reading_Activities_3_(Study_Theories_of_the_Proletariat-3).jpg %}" alt="" title="" style=""></span>
-Research into literary and intellectual life often focuses on analyses of texts and their production. The reader, practices of reading and the meanings and interpretations that (ordinary) readers arrive at very often are missing from the picture. This lecture series aims at filling this gap in research by focusing on practices of reading in the People’s Republic of China, addressing, among others, the following questions:
-<li>How do individuals, or groups of individuals, adapt to, oppose or appropriate official politics by creating their own, private politics of reading?</li>
-<li>In how far is (or was) reading an individual or a group activity, a private or public undertaking?</li>
-<li>Where are (or were) practices of reading situated within a triangle made up of the poles of leisure, mandatory and forbidden reading?</li>
-<li>How open or clandestine are (or were) practices of reading, are (or were) they legal or illegal? In how far is (or was) reading employed as a means of distinction?</li>
-<li>In how far does this relate back to the ways that texts are written, distributed, marketed, and interpreted officially?</li>
-<li>When reading becomes part of official policies, what happens to the everyday lives of readers?</li>
-<li>How do different media, different materiality of reading materials impact on reading practices and on the interpretation thereof?</li>
-</p>
-
-<!-- Box -->
-<div class="box">
-	<p><b>Registration:</b> All presentations will be hosted through zoom. For a link for the series, please contact us via the <a href="https://readchina.github.io/conferences.html#contact">'Contact'</a> form at the bottom of the page, or write directly to Eve Yi Lin at <a href="mailto:lin.yi@sinologie.uni-freiburg.de">lin.yi@sinologie.uni-freiburg.de</a>.</p>
+<section id="two">
+	<div class="inner">
+		<h2>Practices of Reading in the People’s Republic of China</h2>
+		<h3>READCHINA Virtual Lecture Series (Winter 2020/2021)</h3>
+	<div class="inner">
+	<p><span class="image right"><img src="{% link assets/images/RC_Lecture_Series_20-21.png %}" alt="" title="" style=""></span> Research into literary and intellectual life often focuses on analyses of texts and their production. The reader, practices of reading and the meanings and interpretations that (ordinary) readers arrive at very often are missing from the picture. This lecture series aims at filling this gap in research by focusing on practices of reading in the People’s Republic of China, addressing, among others, the following questions:
+	<li>How do individuals, or groups of individuals, adapt to, oppose or appropriate official politics by creating their own, private politics of reading?</li>
+	<li>In how far is (or was) reading an individual or a group activity, a private or public undertaking?</li>
+	<li>Where are (or were) practices of reading situated within a triangle made up of the poles of leisure, mandatory and forbidden reading?</li>
+	<li>How open or clandestine are (or were) practices of reading, are (or were) they legal or illegal? In how far is (or was) reading employed as a means of distinction?</li>
+	<li>In how far does this relate back to the ways that texts are written, distributed, marketed, and interpreted officially?</li>
+	<li>When reading becomes part of official policies, what happens to the everyday lives of readers?</li>
+	<li>How do different media, different materiality of reading materials impact on reading practices and on the interpretation thereof?</li>
+	<br>
+	<div class="box">
+	<b>Registration:</b> All presentations will be hosted through zoom. For a link for the series, please contact us via the <a href="https://readchina.github.io/conferences.html#contact">'Contact'</a> form at the bottom of the page, or write directly to Eve Yi Lin at <a href="mailto:lin.yi@sinologie.uni-freiburg.de">lin.yi@sinologie.uni-freiburg.de</a>.
 </div>
 
-
-<!-- Table -->
 <h3>Lecture Series Schedule:</h3>
-
 <div class="table-wrapper">
 	<table>
+	<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 5%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 55%;">
+			 <col span="1" style="width: 25%;">
+    </colgroup>
 		<thead>
 			<tr>
 				<th>Date</th>
@@ -60,7 +60,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<br>
 				<u>Chang Liu (CUHK, Shenzhen):</u><i> Literacy for herself? Housewives’ experiences of reading in 1950s Shanghai</i></td>
-				<td>Emily Graf (Freie Universität Berlin)</td>
+				<td>Emily Graf <br>(Freie Universität Berlin)</td>
 			</tr>
 			<tr>
 				<td><b>17.11</b></td>
@@ -69,7 +69,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<br>
 				<u>Lara Yang (University of Freiburg):</u><i> Dust Hunters in the Confucius-dot-com Era: Consuming and Reading Second-hand Books in the Internet Era in China</i></td>
-				<td>Michel Hockx (University of Notre Dame)</td>
+				<td>Michel Hockx <br>(University of Notre Dame)</td>
 			</tr>
 			<tr>
 				<td><b>24.11</b></td>
@@ -78,7 +78,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<br>
 				<u>Puck Engman (University of Freiburg / UC Berkeley):</u><i> Reading</i> Xuanjiao Dongtai<i>: A Note on the General Significance of Conspiracy in the Chinese Communist Party</i>
-				<td>Perry Link (UC Riverside)</td>
+				<td>Perry Link <br>(UC Riverside)</td>
 			</tr>
 			<tr>
 				<td><b>1.12</b></td>
@@ -88,7 +88,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<br>
 				<u>Benjamin Kindler (Columbia University):</u><i> Reading on Speed: Collective Reading, Micro-stories and Socialist Readership in the Great Leap Forward</i>
-				<td>Robert Culp (Bard College)</td>
+				<td>Robert Culp <br>(Bard College)</td>
 			</tr>
 			<tr>
 				<td><b>8.12</b></td>
@@ -97,7 +97,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<br>
 				<u>Sisi Dong (Minnan Normal University):</u><i> Learning Chairman Mao’s Works Movement in the Rural Society of Eastern Fujian in 1960s</i></td>
-				<td>Damian Mandzunowski (University of Freiburg)</td>
+				<td>Damian Mandzunowski <br>(University of Freiburg)</td>
 			</tr>
 			<tr>
 				<td><b>15.12</b></td>
@@ -107,7 +107,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<u>Dylan Suher (Harvard University): Lust of the Machine:</u><i> The Technologies and Traditions of YY Fiction</i>
 				</td>
-				<td>Paola Iovene (University of Chicago)</td>
+				<td>Paola Iovene <br>(University of Chicago)</td>
 			</tr>
 			<tr>
 				<td><b>12.1</b></td>
@@ -117,7 +117,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<u>Eve Yi Lin (University of Freiburg):</u><i> Cultural Biography of “Avant-Garde”: Intellectual Bookstores and the Legacy of High Culturetion</i>
 				</td>
-				<td>Nicolai Volland (Penn State)</td>
+				<td>Nicolai Volland <br>(Penn State)</td>
 			</tr>
 			<tr>
 				<td><b>19.1</b></td>
@@ -127,7 +127,7 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<u>Damian Mandzunowski (University of Freiburg):</u><i>  A Time to Work and a Time to Read: Group Reading Activities for Workers and the Struggles Between Modernisation and Ideology</i>
 				</td>
-				<td>Jennifer Altehenger (Oxford University)</td>
+				<td>Jennifer Altehenger <br>(Oxford University)</td>
 			</tr>
 			<tr>
 				<td><b>26.1</b></td>
@@ -137,5 +137,5 @@ Research into literary and intellectual life often focuses on analyses of texts 
 				<br>
 				<u>Matthew Wills (UC San Diego):</u><i> Revolution, Reading, Reward and Risk: Creating and Sustaining the Reading Nation</i>
 				</td>
-				<td>Lena Henningsen (University of Freiburg)</td>
+				<td>Lena Henningsen <br>(University of Freiburg)</td>
 			</tr>
