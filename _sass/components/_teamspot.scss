@@ -9,6 +9,7 @@
         @include vendor('display', 'flex');
         @include vendor('flex-direction', 'row');
         background-color: desaturate(lighten(_palette(bg-alt), 2), 1);
+        max-height: 20vw;
 
         > .image {
             background-position: center center;
@@ -21,7 +22,8 @@
             img {
                 border-radius: 0;
                 display: block;
-                width: 100%;
+                max-width: 100%;
+                max-height: 100%;
             }
 
             &:before {
@@ -61,6 +63,8 @@
             }
         }
     }
+
+    // TODO: DP adjust breakpoints for a sane layout on see #80
 
     @include breakpoint(xlarge) {
         > section {
