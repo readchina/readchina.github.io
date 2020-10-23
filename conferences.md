@@ -31,7 +31,7 @@ show_tile: true
 	<li>How do different media, different materiality of reading materials impact on reading practices and on the interpretation thereof?</li>
 	<br>
 	<div class="box">
-	<b>Registration:</b> All presentations will be hosted through zoom. For a link for the series, please contact us via the <a href="https://readchina.github.io/conferences.html#contact">'Contact'</a> form at the bottom of the page, or write directly to Eve Yi Lin at <a href="mailto:lin.yi@sinologie.uni-freiburg.de">lin.yi@sinologie.uni-freiburg.de</a>.
+	<b>Registration:</b> All presentations will be hosted through zoom. For a link for the series, please contact us via the <a href="https://readchina.github.io/conferences.html#contact">'Contact'</a> form at the bottom of the page, or write directly to Eve Yi Lin at <a href="mailto:readchinalectureseries@gmail.com">readchinalectureseries@gmail.com</a>.
 </div>
 
 <h3>Lecture Series Schedule:</h3>
