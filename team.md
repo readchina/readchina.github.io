@@ -2,7 +2,6 @@
 title: Team
 layout: landing
 description: 'Meet our Team'
-image:
 nav-menu: true
 ---
 
