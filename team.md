@@ -6,7 +6,7 @@ nav-menu: true
 ---
 
 <!-- One -->
-<section id="one" class="spotlights">
+<section id="one" class="tspot">
 	<section>
 		<a href="team/lena.html" class="image">
 			<img src="{% link /assets/images/LenaHenningsen.JPG %}" alt="" data-position="25% 25%" />
