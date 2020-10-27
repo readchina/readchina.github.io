@@ -5,8 +5,6 @@ description: "PostDoc"
 nav-menu: false
 show_tile: false
 ---
-<div class="row">
-<span class="image left"><img src="/assets/images/LaraYuyuYang.jpg" alt="" title="" style=""></span>
 
 <h3>{{ page.description }}</h3> 
 
