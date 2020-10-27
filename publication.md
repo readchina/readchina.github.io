@@ -1,23 +1,11 @@
 ---
 layout: page
 title: Publications
-image: 
 nav-menu: true
 show_tile: true
 ---
-
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Publications</h1>
-		</header>
-
-<!-- Content -->
-
-<p> In this section, all publications by the READCHINA team will be listed ongoingly.</p>
+# Publications
+*In this section, all publications by the READCHINA team will be listed ongoingly.*
 
 <div class="table-wrapper">
 	<table>
@@ -86,9 +74,5 @@ show_tile: true
 			</tr>
 		</tbody>
 	</table>
-</div>
-</div>
-</section>
-
 </div>
 
