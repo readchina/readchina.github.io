@@ -1,10 +1,13 @@
 ---
 layout: post
-title: New Digital Repository of Photographs of People Reading in China, 1900s-2000s
+title: New Visual Repository of People Reading in China
 ---
 
-![](/assets/images/Gigon_FS.jpeg) Source: *[Fotostiftung Schweiz, Fernand Gigon]*(https://fss.e-pics.ethz.ch/latelogin.jspx?recordsWithCatalogName=FSS:52722)
+<span class="image right"><img src="/assets/images/Gigon_FS.jpeg" alt="" title="" style="">Source: [*Fernand Gigon / Fotostiftung Schweiz*](https://fss.e-pics.ethz.ch/latelogin.jspx?recordsWithCatalogName=FSS:52722)</span>
 
-*READCHINA* project member [Damian Mandzunowski](https://readchina.github.io/team/damian.html) is curating an ongoing digital repository of visual images (primarily photos but posters, paintings, films, and other visual media shall be included with time too) depicting people engaging in the act of reading in China throughout the long twentieth century.
+[Damian Mandzunowski](https://readchina.github.io/team/damian.html) has been curating a digital repository of images of people engaging in the act of reading in China during the long twentieth century. Mainly consisting of photographs, the ongoing collection shall eventually also include other visual texts—posters, paintings, and films.
 
-Visit *Reading Acts in Twentieth-Century China* at [https://chinareading.wordpress.com/](https://chinareading.wordpress.com/) for the images and further details on the curatorship process.
+
+Visit [*Reading Acts in Twentieth-Century China*](https://chinareading.wordpress.com/) to see the images and for further details on the curatorial process.
+
+<div class="row">
