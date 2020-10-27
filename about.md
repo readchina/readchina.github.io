@@ -11,6 +11,24 @@ nav-menu: true
 
 *READCHINA* considers the reading of literature as part of a wider web of reading materials, including different media and non-fictional texts. Primary sources will consist among others of archival material, field work interviews, autobiographies, marketing materials, statements by fans in online forums, and literary texts. Combining literary analysis with historical and ethnographical inquiry, as well as methods from the digital humanities, *READCHINA* will contribute to the fields of literary history and literary sociology. Moreover, in combining close readings of texts with distant reading methods, *READCHINA* will also foster our understanding of the meaning and impact of popular literature in China and of literary theories on reading and thus also bring 20th and 21st century China into the global history of reading.
 
+See the [Team page](https://readchina.github.io/team) for details about the *READCHINA* team.
+
+### Research Associates
+[Prof. Dr. Jennifer Altehenger](https://www.merton.ox.ac.uk/people/dr-jennifer-altehenger), Oxford University
+
+[Dr. Xuelei Huang](https://www.ed.ac.uk/profile/xuelei-huang), University of Edinburgh
+
+Sara Landa, M.A., Freiburg University
+
+[Prof. Dr. Peidong Sun](https://www.sciencespo.fr/ceri/fr/users/peindongsun), CERI / Sciences Po Paris
+
+[Prof. Dr. Nicolai Volland](https://asian.la.psu.edu/people/nmv10), Pennsylvania State University
+
+### Research Assistants
+Mira Grünwald
+
+Wenxin Huang
+
+Maryna Yanhirava
 
 <hr class="major" />
-
