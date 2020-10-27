@@ -14,21 +14,17 @@ nav-menu: true
 See the [Team page](https://readchina.github.io/team) for details about the *READCHINA* team.
 
 ### Research Associates
-[Prof. Dr. Jennifer Altehenger](https://www.merton.ox.ac.uk/people/dr-jennifer-altehenger), Oxford University
-
-[Dr. Xuelei Huang](https://www.ed.ac.uk/profile/xuelei-huang), University of Edinburgh
-
-Sara Landa, M.A., Freiburg University
-
-[Prof. Dr. Peidong Sun](https://www.sciencespo.fr/ceri/fr/users/peindongsun), CERI / Sciences Po Paris
-
-[Prof. Dr. Nicolai Volland](https://asian.la.psu.edu/people/nmv10), Pennsylvania State University
+<ul>
+<li> [Prof. Dr. Jennifer Altehenger](https://www.merton.ox.ac.uk/people/dr-jennifer-altehenger), Oxford University</li>
+<li> [Dr. Xuelei Huang](https://www.ed.ac.uk/profile/xuelei-huang), University of Edinburgh</li>
+<li> Sara Landa, M.A., Freiburg University</li>
+<li> [Prof. Dr. Peidong Sun](https://www.sciencespo.fr/ceri/fr/users/peindongsun), CERI / Sciences Po Paris</li>
+<li> [Prof. Dr. Nicolai Volland](https://asian.la.psu.edu/people/nmv10), Pennsylvania State University</li>
+</ul>
 
 ### Research Assistants
-Mira Grünwald
-
-Wenxin Huang
-
-Maryna Yanhirava
-
-<hr class="major" />
+<ul>
+<li>Mira Grünwald</li>
+<li>Wenxin Huang</li>
+<li>Maryna Yanhirava</li>
+</ul>
