@@ -15,7 +15,7 @@ phone: +49 (xxx) xxx-xxxx
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 # 500px_url:

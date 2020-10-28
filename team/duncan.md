@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Duncan Paterson"
-description: "PostDoc / Data Manager"
+description: "Researcher / Data Manager"
 nav-menu: false
 show_tile: false
 ---
