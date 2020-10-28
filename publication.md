@@ -36,6 +36,13 @@ show_tile: true
 				<td><a href="https://www.researchgate.net/publication/342521654_POACHING_WORLD_LITERATURE_IN_CHINA%27S_LONG_1970s_Asian_Journal_of_African_Studies" target="_blank" rel="noopener noreferrer">LINK</a></td>
 			</tr>
 			<tr>
+				<td>Henningsen, Lena</td>				
+				<td>Book Review: The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism. By Robert Culp</td>
+				<td>The Journal of Asian Studies, Vol. 79, no. 2, 457-459</td>
+				<td>2020</td>
+				<td><a href="https://doi.org/10.1017/S002191182000008X" target="_blank" rel="noopener noreferrer">10.1017/S002191182000008X</a></td>
+			</tr>
+			<tr>
 				<td>Henningsen, Lena (with Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler and Sen Wei)</td>				
 				<td>Ye Yonglie: Little Smarty Travels to the Future</td>
 				<td>MCLC Resource Center</td>
