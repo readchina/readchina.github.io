@@ -43,6 +43,13 @@ show_tile: true
 				<td><a href="https://doi.org/10.1017/S002191182000008X" target="_blank" rel="noopener noreferrer">10.1017/S002191182000008X</a></td>
 			</tr>
 			<tr>
+				<td>Henningsen, Lena</td>				
+				<td>Little Smarty Travels to the Future: Introduction to the Text and Notes on the Translation</td>
+				<td>MCLC Resource Center</td>
+				<td>2020-09-21</td>
+				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-intro/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
 				<td>Henningsen, Lena (with Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler and Sen Wei)</td>				
 				<td>Ye Yonglie: Little Smarty Travels to the Future</td>
 				<td>MCLC Resource Center</td>
