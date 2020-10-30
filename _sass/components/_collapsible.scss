@@ -1,3 +1,9 @@
 #por-schedule {
     display: none;
 }
+
+@include breakpoint(small) {
+    #por-info {
+        display: none;
+    }
+}

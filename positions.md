@@ -30,10 +30,10 @@ You task consists of supporting the tech lead in maintaining and developing solu
 -  Ability to work with common encryption tools (GPG)
 
 
-## Start / Duration:
+### Start / Duration:
 Immediately, 12/2020 by the latest. The initial contract will be for 6 month, but longer durations are desired. Work hours negotiable with a minimum of 16h/month and maximum of 32h/month.
 
-## Salary
+### Salary
 For detailed information about your salary, elligiblity etc. please consult the [ZUV info page for HiWis](http://www.zuv.uni-freiburg.de/service/hiwi)
 
 If you are interested, please send your CV to [readchina "at" mail.sinologie.uni-freiburg.de](mailto:readchina@mail.sinologie.uni-freiburg.de)
