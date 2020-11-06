@@ -2,10 +2,12 @@
 layout: page
 title: Positions
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 
-## Description
+**Unfortunately, at this time, we don't have any job vacancies.**
+
+<!-- ## Description
 The *READCHINA* project, at Freiburg University, offers a position for a student research assistant (wissenschafliche Hilfskraft) to assist our ongoing digital humanities projects. Our research focuses on reading within the People’s Republic of China (PRC). *READCHINA* consists of five individual projects focusing on e.g. historical, literary, or aesthetic aspects of Chinas quickly evolving reading culture. The projects are situated within a common technological framework. 
 You task consists of supporting the tech lead in maintaining and developing solutions ranging from statistical data analysis, to front-end development of digital scholarly editions for archival resources. Our international team offers the opportunity to contribute to ongoing research projects with non-Western sources, using open source tools. You will  acquire experiences in data live cycle management, modern CI/CD workflows, and production system administration. You will have the opportunity to design and develop your own solutions in coordination with the researchers. The position can be filled 100% remotely. Note that for data protections reasons, not all of our projects are public. 
 
@@ -33,7 +35,7 @@ You task consists of supporting the tech lead in maintaining and developing solu
 ### Start / Duration:
 Immediately, 12/2020 by the latest. The initial contract will be for 6 month, but longer durations are desired. Work hours negotiable with a minimum of 16h/month and maximum of 32h/month.
 
-### Salary
+### Salary 
 For detailed information about your salary, elligiblity etc. please consult the [ZUV info page for HiWis](http://www.zuv.uni-freiburg.de/service/hiwi)
 
-If you are interested, please send your CV to [readchina "at" mail.sinologie.uni-freiburg.de](mailto:readchina@mail.sinologie.uni-freiburg.de)
+If you are interested, please send your CV to [readchina "at" mail.sinologie.uni-freiburg.de](mailto:readchina@mail.sinologie.uni-freiburg.de) -->
