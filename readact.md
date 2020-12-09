@@ -16,7 +16,7 @@ view:
 ## {{ page.title }}: Introduction
 [![DOI](https://zenodo.org/badge/96089230.svg)](https://zenodo.org/badge/latestdoi/96089230)
 
-The *ReadAct* database was originally developed as part of the Worlds of Reading in China’s long 1970s research project [*Lesewelten*](http://www.sinologie.uni-freiburg.de/forschung/projecthenningsen). It is under active development as part of [*READCHINA*](https://readchina.github.io/). Here we gather pieces of analysis that our team has undertaken based on the *ReadAct* in an ongoing fashion.
+The *ReadAct* [database](https://github.com/readchina/ReadAct) was originally developed as part of the Worlds of Reading in China’s long 1970s research project [*Lesewelten*](http://www.sinologie.uni-freiburg.de/forschung/projecthenningsen). It is under active development as part of *READCHINA*. Here we gather pieces of analysis that our team has undertaken based on the *ReadAct* in an ongoing fashion.
 
 *ReadAct* provides various interfaces for users to interact with its data. This page features a collection of graphical displays accompanied by short snippets of analysis. These views are updated automatically and reflect the latest stage of our ongoing work on *ReadAct*. It is therefore possible that the text and the visualization are not in perfect alignment. Should you note something odd, please let us know via the contact form. You can freely explore and interact with the views by selecting `Open in Vega Editor` from the menu button on any data visualization. The short data stories here provide a space for quick explorations based on our overarching research questions. For fuller analysis please consult the publications section of our homepage.
 
