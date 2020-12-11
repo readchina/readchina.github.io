@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Papers Presented at Annual Meeting of the German Sinological Association (DVCS) 2019
+title: Papers Presented at Annual Meeting of the German Association for China Studies (DVCS) 2019
 ---
 
 <span class="image right"><img src="/assets/images/dvcslogo.png" alt="" title="" style=""></span>
 
-Three project members presented papers during the [XXX. Annual Meeting of the German Sinological Association 'Places of Knowledge in China' (XXX. Jahrestagung der Deutschen Vereinigung für Chinastudien 'Wissensorte in China')](https://www.asia-europe.uni-heidelberg.de/index.php?id=4429) held in Heidelberg, 15-17 November 2019:
+Three project members presented papers during the [XXX. Annual Meeting of the German Association for China Studies 'Places of Knowledge in China' (XXX. Jahrestagung der Deutschen Vereinigung für Chinastudien 'Wissensorte in China')](https://www.asia-europe.uni-heidelberg.de/index.php?id=4429) held in Heidelberg, 15-17 November 2019:
 
 - [Lena Henningsen](https://www.sinologie.uni-freiburg.de/Mitarbeiterinnen/professorinnen/henningsen) presented a paper titled "Fiktionale Literatur als Wissens-Ort";
 
