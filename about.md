@@ -24,3 +24,4 @@ See the [Team page](https://readchina.github.io/team) for details about the *REA
 - Mira Grünwald
 - Wenxin Huang
 - Maryna Yanhirava
+- Qin Gu
