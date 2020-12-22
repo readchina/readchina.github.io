@@ -15,6 +15,7 @@ See the [Team page](https://readchina.github.io/team) for details about the *REA
 
 ### Research Associates
 - [Prof. Dr. Jennifer Altehenger](https://www.merton.ox.ac.uk/people/dr-jennifer-altehenger), Oxford University
+- [Prof. Dr. Robert J. Culp](https://www.bard.edu/faculty/details/?id=229), Bard College
 - [Dr. Xuelei Huang](https://www.ed.ac.uk/profile/xuelei-huang), University of Edinburgh
 - Sara Landa, M.A., Freiburg University
 - [Prof. Dr. Peidong Sun](https://www.sciencespo.fr/ceri/fr/users/peindongsun), CERI / Sciences Po Paris
