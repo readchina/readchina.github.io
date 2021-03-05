@@ -15,4 +15,4 @@ All our project members presented papers during the READCHINA-organized virtual 
 
 - [Eve Yi Lin](https://www.sinologie.uni-freiburg.de/Mitarbeiterinnen/projektmitarbeiterinnen/yilin) presented a paper titled "Cultural Biography of “Avant-Garde”: Reading China’s High Culture from the Intellectual Bookstore"; read the abstract [here](https://readchina.github.io/2020/12/08/LS_7.html).
 
-- [Damian Mandzunowski](https://www.sinologie.uni-freiburg.de/Mitarbeiterinnen/projektmitarbeiterinnen/mandzunowski) presented a paper titled "A Time to Work and a Time to Read: Group Reading Activities for Workers in Modernizing China"; read the abstract [here](https://readchina.github.io/2020/11/10/LS_8.html).
+- [Damian Mandzunowski](https://www.sinologie.uni-freiburg.de/Mitarbeiterinnen/projektmitarbeiterinnen/mandzunowski) presented a paper titled "I’ve Seen That Reading Group Before: Late Mao-Era Collective Reading Acts in Posters and Photographs"; read the abstract [here](https://readchina.github.io/2020/11/10/LS_8.html).
