@@ -23,7 +23,7 @@ nav-menu: true
                     <li>Mira Grünwald</li>
                     <li>Wenxin Huang</li>
                     <li>Maryna Yanhirava</li>
-                    <li>Qin Gu</li>
+                    <li>Gu Qin</li>
                     <li>Chen Shaoqi</li>
                 </ul>
             </div>
