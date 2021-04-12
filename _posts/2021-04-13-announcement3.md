@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk by Damian Mandzunowski on Iconography of Caricatures of Jiang Qing on 21 April at 4 pm 
+title: Talk by Damian Mandzunowski on Iconography of Caricatures of Jiang Qing on 21 April at 4 pm
 ---
 
 <span class="image right"><img src="/assets/images/SunYiZeng_JiangQing.jpg" alt="" title="" style=""></span>
