@@ -34,18 +34,31 @@ Therefore, *reading acts* can be operationalized as meaningful units for analysi
 **Fictional reading acts and the interface function:** *Reading acts* in this context attain what may be termed interface function: Through the page of the book, through a tattered hand-copy or through an electronic device, the real reader accesses the text. Similarly, the reader within the fictional narrative in a book accesses the text through a distinct medium in her or his hand or before her or his eyes. The fictional thus text has an interface function through which the “real” reader can access a second order text. Other than through an interface on the web, the full text is not readily available to click on and read for oneself. However, the real reader may gain deep insight into the second order text, in particular from elaborate descriptions of reading acts, or through *reading acts* that significantly propel the action in the story. Through the interface function, the two texts are brought into a connection that can be fruitful at its best – creating an imaginative space in which new meaning is bestowed by the reader through interpretation onto both texts. 
 
 **References:**
+
 Barthes, Roland. 1968. “The Death of the Author.” *Aspen*, no. 5+6, quoted after: http://www.ubu.com/aspen/aspen5and6/threeEssays.html#barthes, accessed Nov.27, 2007.
+
 De Certeau, Michel. 1984 (1980). *The Practice of Everyday Life*. Translated by Steven Rendall. Berkeley: University of California Press.
+
 Foucault, Michel. 1991. “What is an Author?” In *Rethinking Popular Culture, Contemporary Perspectives in Cultural Studies*, eds. Chandra Mukerji, Michael Schudson, 446-464. Berkeley: University of California.
+
 Henningsen, Lena. 2021. *Cultural Revolution Manuscripts: Unofficial Entertainment Fiction from 1970s China*. Basingstoke: Palgrave Macmillan (forthcoming).
+
 Henningsen, Lena. 2021a. “Fictional Texts as Sites of Knowledge: From Intertexts to Transtextuality.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
+
 Henningsen, Lena Duncan Paterso. 2020. “ReadAct: Reading Act Database.” In *Zenodo*, April 16, 2020. doi:10.5281/zenodo.3755105. 
+
 Iser, Wolfgang. 1976 *Der Akt des Lesens: Theorie ästhetischer Wirkung*. München: Wilhelm Fink.
+
 Iser, Wolfgang. 1980. *The Act of Reading: A Theory of Aesthetic Response*. Baltimore: John Hopkins University Press.
+
 Mandzunowski, Damian. 2021. “Factory State of Mind: Spreading ‘Three Ardent Loves’ via Collective Reading Activities in Tianjin, 1983-1985.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
+
 Mandzunowski, Damian, Lena Henningsen 2021. “Why Poach when you can Wander? Michel de Certeau’s Concept of Reading-as-Poaching and its Discontents.” In *ReadChina Interventions*.
+
 Lin, Eve Y. 2021. “Cultural Biography of the ‘Avant-Garde’: Intellectual Bookstores and the Legacy of High Culture.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
+
 Schön, Erich. 2006. “Geschichte des Lesens.” In *Handbuch Lesen*, eds. Bodo Franzmann, Klaus Haseman, Dietrich Löffler, Erich Schön, 1-85. Baltmannsweiler: Schneider Verlag Hohengehren.
+
 Snaza, Nathan. 2019. *Animate. Literacies: Literature, Affect, and the Politics of Humanism*. Durham and London: Duke University Press.
 
 
