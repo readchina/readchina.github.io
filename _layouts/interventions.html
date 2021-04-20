@@ -19,14 +19,14 @@
     <!-- One -->
     <section id="one">
       <div class="inner">
-        <p>Here is a collection of short essays, we call <emph>READCHINA Interventions</emph>. We hope you enjoy these essays, and encourage you to respond to them via the social-media buttons at the bottom of the page. </p>
+        <p>In this section, we publish brief pieces with core insights gained from our project(s) and ongoing deliberations by individual researchers about relevant concepts. We are expanding these thoughts in our previous and forthcoming <a href="https://readchina.github.io/publication.html">publications</a> too. Our intention in writing the READCHINA Interventions is to spark conversation and provoke thoughts, so we hope you enjoy reading them – and feel free to reach out to us with comments afterward!</p>
         <!-- Sort pages by title -->
         {% assign iPosts = site.pages | sort_natural: 'title' %}
         <!-- iterate over sorted pages -->
         {% for p in iPosts %}
         <!-- Filter interventions  -->
         {% if p.description == 'A READCHINA Intervention' %}
-        
+
 
         <!-- create link -->
         <header class="major">
