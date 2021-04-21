@@ -1,14 +1,14 @@
-## Project Webpage
+# Project Webpage
 ![Jekyll Deploy](https://github.com/duncdrum/forty-jekyll-theme/workflows/Jekyll%20Deploy/badge.svg)
 
 Our new website is currently located at `https://readchina.github.io` and build using [GitHub pages](https://pages.github.com). We use the excellent Jekyll version of the ["Forty" theme](https://github.com/andrewbanchich/forty-jekyll-theme) originally by [HTML5 UP](https://html5up.net/).  
 
-### Requirements
+## Requirements
 To preview and work on the website on your computer you need to have ruby `2` and jekyll `4` installed. If you run into issues with your installation please check the full [installation](https://jekyllrb.com/docs/installation/macos/) instructions by jekyll.
 
-If you maintain multiple sites, we recommend using [rbenv](https://github.com/rbenv/rbenv) to manage the parallel installation of mutliple ruby environment. 
+If you maintain multiple sites, we recommend using [rbenv](https://github.com/rbenv/rbenv) to manage the parallel installation of mutliple ruby environments. 
 
-### Installation
+## Installation
 You only need to do this once. Use `homebrew` to install the latest ruby.
 1.  Install the latest ruby
     ```zsh
@@ -25,7 +25,7 @@ You only need to do this once. Use `homebrew` to install the latest ruby.
 
 (if you are still using `bash` instead of `zsh` type `brew info ruby` to see the correct command for your system.)
 
-#### Running locally
+### Running locally
 If you have the necessary tools installed. Open this folder in your Terminal (CLI) and type the following.
 
 ```zsh
@@ -57,7 +57,7 @@ layout: allposts
 
 Go ahead and edit away ...
 
-#### Publishing your changes
+### Publishing your changes
 To publish you changes commit them into their own branch and open a pull request against the `master` branch. A GitHub workflow will build the site and push to `gh-pages` automatically after your PR has been merged. Do **not** commit changes to `gh-pages` directly.
 
 If you are using the `blog` default, make sure to include the full date of the post in the name of your blog post, e.g.:
@@ -67,6 +67,51 @@ If you are using the `blog` default, make sure to include the full date of the p
 ```
 
 To immediately see your page go live use a date in the past, or otherwise you ll have to wait for the post to become visible.
+
+## Interventions
+By popular demand *Interventions* will be drafted using `MS-Word`. We have shared a word-template file on basecamp, download and save it to your computer using the `Save as Template` command in the `File` menu. To start a new Interventions document in Word, us `New from Template`. The citation style should be Chicago (Author-Date) format. Do not use Footnotes!
+
+In order to publish an Intervention we need to 1) convert the word document into mardown, and 2) add the necessary header to the markdown file for the webpage to function. You can use a free tool called [pandoc](https://pandoc.org/index.html) for the conversion. To install it on macOS run.
+
+```shell
+brew install pandoc
+```
+
+You only need to do this once. 
+
+### File conversion via Pandoc 
+Once you have pandoc installed open your terminal app. You have to options either:
+- navigate to the folder on your hard-drive where you stored the word document. In this example I have a word document `Pandoc_test.docx` in a folder `Documents/Interventions`. First, navigate into the folder, using `cd` (current directory). Second, tell pandoc to convert the file from (`-f`) word to (`-t`) markdown by creating (`-o`) and new file named `Pandoc_test.md`. 
+```shell
+cd ~/Documents/Interventions 
+ ~/Documents/Interventions/ [1.23.8] pandoc Pandoc_test.docx -f docx -t markdown -o Pandoc_test.md
+```
+
+- Alternativey open your terminal, and then drag-n-drop the word document into it using your mouse. 
+```shell 
+pandoc ~/Desktop/Layout_test.docx -f docx -t markdown -o Layout_test.md
+``` 
+
+### Prepare the markdown file for publishing
+Once you have generated a markdown file, you can copy it into the `interventions/` folder in this repo. Remember that the file name will be part of its url, so pick something sensible, and without `whitespaces`, `&`, etc. 
+
+At the very top of the converted markdown file, you need to insert and adjust the header:
+
+```yml
+---
+layout: post
+title: '01: What is a Reading Act?'
+description: 'A READCHINA Intervention'
+abstract: 'lorem ipsum …'
+nav-menu: false
+show_tile: false
+---
+```
+
+You should only adjust `title` and `abstract`, use the number format of the example. Don't try to put any links, images etc, into the abstract. Keep it short and simple. 
+
+Once you adjusted the header you can commit your changes and perform a final review of how the intervention will look in a browser. Once you're satsified that contents are correct, italics etc, are where they belong. Open a Pull Request. To brush up on `markdown` see the links below. 
+
 
 ### Further Reading and Tutorials
 -   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
