@@ -1,15 +1,14 @@
 ---
 layout: post
 title: '01: What is a Reading Act?'
-description: 'A READCHINA Intervention'
+author: 'Lena Henningsen'
 abstract: 'Reading acts emphasize the event-like nature of reading. They are proposed as concept of research which focuses on the individual readers, groups of readers and the social, political, historical, intellectual, cultural and literary contexts under which readings take place; it also captures – if sources permit – to take the materiality of texts into the analysis.'
+description: 'A READCHINA Intervention'
 nav-menu: false
 show_tile: false
 ---
 
-## What is a Reading Act? From Reading Act to Interface Function
-
-Lena Henningsen
+## From Reading Act to Interface Function
 
 *Reading acts* are at the core of much of what READCHINA investigates. The concept is informed by earlier research into reading both on the side of literary and cultural studies and by speech act theory. A research focus on *reading acts* shifts the methodological focus of the investigation to readers as the producers of meaning, and thus as the producers of texts; it shifts the focus on the individuals, groups of individuals and the social, political, historical, intellectual, cultural and literary contexts under which readings take place; it also captures – if sources permit – to take the materiality of texts into the analysis. *Reading acts* thus emphasize the event-like nature of reading. 
 
@@ -21,7 +20,7 @@ Therefore, *reading acts* can be operationalized as meaningful units for analysi
 
 *Reading acts* can be analyzed in numerous fields of inquiry, such as, but not limited to the following examples from our research: 
 
-**Digital Humanities:** *Reading acts* can be operationalized into databases such as the ReadAct database (https://readchina.github.io/readact.html), thus enabling researchers to trace reading materials, *reading acts* and variants of *reading acts* through space and time in qualitative and quantitative terms. Our data demonstrates, that – quite unsurprisingly – Mao Zedong was the most widely read author during the Cultural Revolution. The most widely read texts – in our sources – however turn out to be the Chinese classical *Water Margin* and *The Count of Monte Cristo* by Dumas, but non-fictional titles such as *The New Class* (Djilas) or *The Rise and Fall of the Third Reich* (Shirer) were also widely read. Closer analysis of the data also allows insights into how the texts were read.
+**Digital Humanities:** *Reading acts* can be operationalized into databases such as the [ReadAct database](https://readchina.github.io/readact.html), thus enabling researchers to trace reading materials, *reading acts* and variants of *reading acts* through space and time in qualitative and quantitative terms. Our data demonstrates, that – quite unsurprisingly – Mao Zedong was the most widely read author during the Cultural Revolution. The most widely read texts – in our sources – however turn out to be the Chinese classical *Water Margin* and *The Count of Monte Cristo* by Dumas, but non-fictional titles such as *The New Class* (Djilas) or *The Rise and Fall of the Third Reich* (Shirer) were also widely read. Closer analysis of the data also allows insights into how the texts were read.
 
 **History:** In historical research, we may ask about the impact of reading materials or about the changing nature of reading cultures and reading acts. *Reading acts* may have impacted the individual reader as much as the societies in which they lived. Autobiographies of the Chinese Cultural Revolution contain numerous descriptions of *reading acts*. The authors of these texts narrate how reading inspired them in their own lives or proved eye-opening to them (Henningsen 2021). 
 
@@ -33,32 +32,18 @@ Therefore, *reading acts* can be operationalized as meaningful units for analysi
 
 **Fictional reading acts and the interface function:** *Reading acts* in this context attain what may be termed interface function: Through the page of the book, through a tattered hand-copy or through an electronic device, the real reader accesses the text. Similarly, the reader within the fictional narrative in a book accesses the text through a distinct medium in her or his hand or before her or his eyes. The fictional thus text has an interface function through which the “real” reader can access a second order text. Other than through an interface on the web, the full text is not readily available to click on and read for oneself. However, the real reader may gain deep insight into the second order text, in particular from elaborate descriptions of reading acts, or through *reading acts* that significantly propel the action in the story. Through the interface function, the two texts are brought into a connection that can be fruitful at its best – creating an imaginative space in which new meaning is bestowed by the reader through interpretation onto both texts. 
 
-**References:**
+## References
 
-Barthes, Roland. 1968. “The Death of the Author.” *Aspen*, no. 5+6, quoted after: http://www.ubu.com/aspen/aspen5and6/threeEssays.html#barthes, accessed Nov.27, 2007.
-
-De Certeau, Michel. 1984 (1980). *The Practice of Everyday Life*. Translated by Steven Rendall. Berkeley: University of California Press.
-
-Foucault, Michel. 1991. “What is an Author?” In *Rethinking Popular Culture, Contemporary Perspectives in Cultural Studies*, eds. Chandra Mukerji, Michael Schudson, 446-464. Berkeley: University of California.
-
-Henningsen, Lena. 2021. *Cultural Revolution Manuscripts: Unofficial Entertainment Fiction from 1970s China*. Basingstoke: Palgrave Macmillan (forthcoming).
-
-Henningsen, Lena. 2021a. “Fictional Texts as Sites of Knowledge: From Intertexts to Transtextuality.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
-
-Henningsen, Lena Duncan Paterso. 2020. “ReadAct: Reading Act Database.” In *Zenodo*, April 16, 2020. doi:10.5281/zenodo.3755105. 
-
-Iser, Wolfgang. 1976 *Der Akt des Lesens: Theorie ästhetischer Wirkung*. München: Wilhelm Fink.
-
-Iser, Wolfgang. 1980. *The Act of Reading: A Theory of Aesthetic Response*. Baltimore: John Hopkins University Press.
-
-Mandzunowski, Damian. 2021. “Factory State of Mind: Spreading ‘Three Ardent Loves’ via Collective Reading Activities in Tianjin, 1983-1985.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
-
-Mandzunowski, Damian, Lena Henningsen 2021. “Why Poach when you can Wander? Michel de Certeau’s Concept of Reading-as-Poaching and its Discontents.” In *ReadChina Interventions*.
-
-Lin, Eve Y. 2021. “Cultural Biography of the ‘Avant-Garde’: Intellectual Bookstores and the Legacy of High Culture.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
-
-Schön, Erich. 2006. “Geschichte des Lesens.” In *Handbuch Lesen*, eds. Bodo Franzmann, Klaus Haseman, Dietrich Löffler, Erich Schön, 1-85. Baltmannsweiler: Schneider Verlag Hohengehren.
-
-Snaza, Nathan. 2019. *Animate. Literacies: Literature, Affect, and the Politics of Humanism*. Durham and London: Duke University Press.
-
-
+- Barthes, Roland. 1968. “The Death of the Author.” *Aspen*, no. 5+6, quoted after: [http://www.ubu.com/aspen/aspen5and6/threeEssays.html#barthes](http://www.ubu.com/aspen/aspen5and6/threeEssays.html#barthes), accessed Nov.27, 2007.
+- De Certeau, Michel. 1984 (1980). *The Practice of Everyday Life*. Translated by Steven Rendall. Berkeley: University of California Press.
+- Foucault, Michel. 1991. “What is an Author?” In *Rethinking Popular Culture, Contemporary Perspectives in Cultural Studies*, eds. Chandra Mukerji, Michael Schudson, 446-464. Berkeley: University of California.
+- Henningsen, Lena. 2021. *Cultural Revolution Manuscripts: Unofficial Entertainment Fiction from 1970s China*. Basingstoke: Palgrave Macmillan (forthcoming).
+- Henningsen, Lena. 2021a. “Fictional Texts as Sites of Knowledge: From Intertexts to Transtextuality.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
+- Henningsen, Lena, Duncan Paterson. 2020. “ReadAct: Reading Act Database.” In *Zenodo*, April 16, 2020. doi:10.5281/zenodo.3755105.
+- Iser, Wolfgang. 1976 *Der Akt des Lesens: Theorie ästhetischer Wirkung*. München: Wilhelm Fink.
+- Iser, Wolfgang. 1980. *The Act of Reading: A Theory of Aesthetic Response*. Baltimore: John Hopkins University Press.
+- Mandzunowski, Damian. 2021. “Factory State of Mind: Spreading ‘Three Ardent Loves’ via Collective Reading Activities in Tianjin, 1983-1985.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
+- Mandzunowski, Damian, Lena Henningsen 2021. “Why Poach when you can Wander? Michel de Certeau’s Concept of Reading-as-Poaching and its Discontents.” In *ReadChina Interventions*.
+- Lin, Eve Y. 2021. “Cultural Biography of the ‘Avant-Garde’: Intellectual Bookstores and the Legacy of High Culture.” In *Wissensorte in China*, eds. Martin Hofmann, Virginia Leung, Joachim Kurtz. Wiesbaden: Harrassowitz (forthcoming).
+- Schön, Erich. 2006. “Geschichte des Lesens.” In *Handbuch Lesen*, eds. Bodo Franzmann, Klaus Haseman, Dietrich Löffler, Erich Schön, 1-85. Baltmannsweiler: Schneider Verlag Hohengehren.
+- Snaza, Nathan. 2019. *Animate. Literacies: Literature, Affect, and the Politics of Humanism*. Durham and London: Duke University Press.
