@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--
+    Forty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  -->
+<html>
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+
+  <!-- Main -->
+  <div id="main" class="alt">
+
+    <!-- One -->
+    <section id="one">
+      <div class="inner">
+        <p>In this section, we publish brief pieces with core insights gained from our project(s) and ongoing deliberations by individual researchers about relevant concepts. We are expanding these thoughts in our previous and forthcoming <a href="https://readchina.github.io/publication.html">publications</a> too. Our intention in writing the READCHINA Interventions is to spark conversation and provoke thoughts, so we hope you enjoy reading them – and feel free to reach out to us with comments afterward!</p>
+        <!-- Sort pages by title -->
+        {% assign iPosts = site.pages | sort_natural: 'title' %}
+        <!-- iterate over sorted pages -->
+        {% for p in iPosts %}
+        <!-- Filter interventions  -->
+        {% if p.description == 'A READCHINA Intervention' %}
+
+
+        <!-- create link -->
+        <header class="major">
+          <h1><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></h1>
+        </header>
+        <p>{{ p.abstract }}</p>
+
+        {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+
+  </div>
+
+  {% include footer.html %}
+
+</body>
+
+</html>
