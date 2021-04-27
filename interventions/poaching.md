@@ -2,15 +2,18 @@
 layout: post
 title: '02: Why Poach When You Can Wander? Michel de Certeau’s Concept of Reading-as-Poaching Revisited'
 author: 'Damian Mandzunowski and Lena Henningsen'
+date: May 2021
 abstract: ''
 description: 'A READCHINA Intervention'
 nav-menu: false
 show_tile: false
 ---
 
-<blockquote>
-poach (verb, with object): illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection: 20 tigers are thought to have been poached from national parks | (as noun: poaching): he might arrest you for poaching. (OED)
-</blockquote>
+<dl>
+	<dd>
+		<p><b>poach</b> (verb, with object): illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection: <i>20 tigers are thought to have been poached from national parks.</i> | <b>poaching</b> (noun): <i>he might arrest you for poaching.</i> (OED)</p>
+	</dd>
+</dl>
 
 Alongside a handy definition, the Oxford Dictionary of English (OED) provides two exemplary sentences of how to correctly use the verb poach and its gerund poaching. The first describes a situation in which 20 tigers were illegally killed on the grounds of a protected natural reservoir (which, if true, would signify a decline in total population by over 0.5% given that less than 3900 of the striped carnivore cats remain alive in the wild as of today). The other warns the alleged killer that they might face justice for their criminal action. In fact, while existing penalties for poaching differ between countries, they range from monetary fines to imprisonment. And while not every act of hunting constitutes poaching, these brief examples show that the word is now definitely tainted by association with hunters exterminating endangered species in Africa, South America and Asia for fun or questionable glory.
 
@@ -28,10 +31,14 @@ In sum, to describe a highly useful and impactful reclaiming of the act of readi
 
 What to do? Should we cancel Michel de Certeau and his contributions to sociology of reading? Surely that would be too easy a move, especially given that he evades simple classifications. As neatly summarized in a New York Review of Books essay by Natalie Zemon Davis, he was an academic “celebrity, viewed as a major cultural critic, an innovative historian of early modern religion, and a religious thinker” who “developed a distinctive way of interpreting social and personal relations” (2008). Thus, rather than discard the very insightful work as a whole, we seek and explore a range of alternative concepts and metaphors to frame it with—both found in de Certeau as well as proposed by us. The goal is not as much as to find one key term to replace the reading-as-poaching in all uses and cases; rather, it is to present a selection of substitutes, each with their own limitations but also with their very own advantages. It is up to you, our readers, to choose among them freely.
 
-**Reading-as-Wandering**
-<blockquote>
-wander (verb, no object): [with adverbial of direction] walk or move in a leisurely or aimless way: I wandered through the narrow streets. • (verb, with object) travel aimlessly through or over (an area): he found her wandering the streets. (OED)
-</blockquote>
+We therefore suggest to explore the semantic field of wandering as metaphor for reading further in that we discuss briefly how the act of reading could be seen on par with jay-walking and trespassing. We then also broaden the scope to explore commonalities between reading and remixing, deserting and commoning. The text then ends with a proposition to treat reading as everyman’s right.
+
+### Reading-as-Wandering
+<dl>
+	<dd>
+		<p><b>wander</b> (verb, no object): [with adverbial of direction] walk or move in a leisurely or aimless way: <i>I wandered through the narrow streets.</i> • (verb, with object): travel aimlessly through or over (an area): <i>he found her wandering the streets.</i>  (OED)</p>
+	</dd>
+</dl>
 
 First, we would like to point out that de Certeau himself provided an alternative to poaching in the very same chapter under that title. An alternative that is not only not tainted in bloody-red but is, perhaps, even more useful in describing what the philosopher had in mind in the first place. This alternative is wandering. De Certeau writes:
 
@@ -45,99 +52,62 @@ That being said, wandering as a metaphor for reading also resounds well with ano
 
 <blockquote>It is true that the operations of walking on can be traced on city maps in such a way as to transcribe their paths (here well-trodden, there very faint) and their trajectories (going this way and not that). But these thick or thin curves only refer, like words, to the absence of what has passed by. Surveys of routes miss what was: the act itself of passing by. The operation of walking, wandering, or “window shopping,” that is, the activity of passers-by, is transformed into points that draw a totalizing and reversible line on the map. … The trace left behind is substituted for the practice. (de Certeau 2013, p. 97)</blockquote>
 
-De Certeau implicitly even links walking and reading (both in “Reading as Poaching” and in “Walking the City”):
+### Reading-as-Jay-walking
+<dl>
+	<dd>
+		<p><b>jay-walker</b> (noun): A pedestrian who crosses a street without regard to traffic regulations: <i>She jay-walked through the traffic-jam of St. Giles, vaguely hoping to be run over.</i> | <i>Although there are penalties for jay-walking they do not seem to be much needed.</i> (OED)</p>
+	</dd>
+</dl>
 
-<blockquote>Places are fragmentary and inward-turning histories, pasts that others are not allowed to read, accumulated times that can be unfolded but like stories held in reserve, remaining in an enigmatic state, symbolizations encysted in the pain or pleasure of the body. (2013, p. 108)</blockquote>
-
-We therefore suggest to explore the semantic field of walking, wandering and traveling as metaphors for reading further.
-
-**Reading-as-Jay-walking**
-<blockquote>
-jay-walker (noun): A pedestrian who crosses a street without regard to traffic regulations: She jay-walked through the traffic-jam of St. Giles, vaguely hoping to be run over. | Although there are penalties for jay-walking they do not seem to be much needed. (OED)
-</blockquote>
 
 To act as a reader-turned-jay-walker is to approach a text without much regard to how it is expected to be read by the author and/or publisher. One example could be the very common practice of reading a newspaper or magazine from the last page, rather than from the first. Another example is to skip chapters (or the footnotes) in academic books or to read only the introduction and conclusion, or, even, to only skim through a table of contents and a few pages that spark one’s interest and then forget about the rest of the book (she/he who is without this sin be the first to throw a stone!). Yet, the penalties of real-life jay-walking are usually only symbolic. Thus, by extension, reading-as-jay-walking is also not such a dangerous act against the author and text as poaching. Still, and here is a significant difference, by the fact that there are some penalties for it, the reader-turned-jay-walker acts out the reading with a slight possibility of danger. This danger, perhaps, is in the end what motivates and provokes the action to some extent in the first place too. Or, as in jay-walking on the streets, it is the easiness in reaching the destination when compared to taking the prescribed route.
 
-**Reading-as-Trespassing**
-<blockquote>
-trespass (verb): to enter unlawfully on the land of another, or on that which is the property or right of another. | figurative with on or upon: To make an improper or uninvited inroad on (a person's time, attention, patience, etc.); to intrude on or upon the rights or domain of; to encroach on, infringe. (OED)
-</blockquote>
+### Reading-as-Trespassing
+<dl>
+	<dd>
+		<p><b>trespass</b> (verb): to enter unlawfully on the land of another, or on that which is the property or right of another. | (figurative, with on or upon): To make an improper or uninvited inroad on (a person's time, attention, patience, etc.); to intrude on or upon the rights or domain of; to encroach on, infringe. (OED)</p>
+	</dd>
+</dl>
 
-Reading-as-trespassing is the logical yet also much more dangerous next step to reading-as-jay-walking, in that here the reader not only entirely disregards the intentions of the author and/or text but also actively reads against them. Fully challenging the basic assumptions of a text, the trespasser breaks all rules and roams on the textual sites fully at will. One, perhaps not so problematic example, is when a young reader reaches for the forbidden ‘adult-only’ book in their parents’ collection. While this act is a trespassing only in regards to the ownership and allowance over the text, to then only read the erotic images in the given book—or: to rip them out to covertly show to peers—directly acts as trespassing on the text too. Another widespread example is when students add obscene drawings into academic books, write secret messages or otherwise alter the textual construct of books borrowed from a library when learning or preparing for exams. Here, the potential penalty (fine) is outweighed by the mere fun of the action. If to read is to engage with the meanings of texts (add link to What is a Reading Act?), such alterations also constitute reading.
+Reading-as-trespassing is the logical yet also much more dangerous next step to reading-as-jay-walking, in that here the reader not only entirely disregards the intentions of the author and/or text but also actively reads against them. Fully challenging the basic assumptions of a text, the trespasser breaks all rules and roams on the textual sites fully at will. One, perhaps not so problematic example, is when a young reader reaches for the forbidden ‘adult-only’ book in their parents’ collection. While this act is a trespassing only in regards to the ownership and allowance over the text, to then only read the erotic images in the given book—or: to rip them out to covertly show to peers—directly acts as trespassing on the text too. Another widespread example is when students add obscene drawings into academic books, write secret messages or otherwise alter the textual construct of books borrowed from a library when learning or preparing for exams. Here, the potential penalty (fine) is outweighed by the mere fun of the action. If to read is to engage with the meanings of texts (compare with Lena Henningsen's READCHINA Intervention 01 ["What is a Reading Act?"](https://readchina.github.io/interventions/readingact.html)), such alterations also constitute reading.
 
-**Reading-as-Remixing**
-<blockquote>
-remix (verb): To mix again (in various senses). | (spec. sound recording): To create a new version of (a recording) by rebalancing or recombining the separate instrumental or vocal tracks; (now also) to reinterpret or rework (an existing music recording), typically by altering the rhythm or instrumentation, often in a radical way. (OED)
-</blockquote>
+### Reading-as-Remixing
+<dl>
+	<dd>
+		<p><b>remix</b> (verb): To mix again (in various senses). | (spec. sound recording): To create a new version of (a recording) by rebalancing or recombining the separate instrumental or vocal tracks; (now also) to reinterpret or rework (an existing music recording), typically by altering the rhythm or instrumentation, often in a radical way. (OED)</p>
+	</dd>
+</dl>
 
 While reading-as-trespassing is fairly straightforward, reading-as-remixing is its symbolic opposite: to remix a text is to engage with it so deeply that new, unintended meanings appear; or, to engage with it only in the shallowest way—as an object to rip apart and reconstruct—and then to take it and make something entirely new out of it. Especially the Dadaist cut-up technique later also popularized by the Beatniks is a vivid example: here, readers would take examples of written materials at random, cut them in pieces constituted by single sentences or words, mix them up and see what new meanings emerge when put back together. Given that most of the texts created in this way are far from reasonable, reading-as-remixing can end in a full departure from traditionally understood concepts of meaning and interpretation. Sampling of texts read-out-loud or of political speeches or fragments of films common to DJing in the hip-hop culture is an example of how reading-as-remixing might also create entirely new meanings. Here, as in fan cultures such as fan-fiction writing, the clear demarcation between readers and authors of texts vanishes, illustrating the complicities and complexities of the role attributed to readers—a role that clearly is not reduced to passive reception of texts and their meanings.
 
-**Reading-as-Deserting**
-<blockquote>
-desert (verb): To abandon, forsake, relinquish, give up (a thing); to depart from (a place or position). spec. of a soldier or sailor: To quit without permission, run away from (the service, his colors, ship, post of duty, commander, or comrades). (OED)
-</blockquote>
+### Reading-as-Deserting
+<dl>
+	<dd>
+		<p><b>desert</b> (verb): To abandon, forsake, relinquish, give up (a thing); to depart from (a place or position). | (spec. of a soldier or sailor): To quit without permission, run away from (the service, ship, post of duty, commander, or comrades). (OED)</p>
+	</dd>
+</dl>
 
 Leaving the authorial intention and the text itself, the reader-who-deserts abandons the text entirely. She or he throws the book away, not to think or engage with it anymore. Here, the example of students who refuse to engage with a text deemed important for an exam comes to one’s mind immediately. If the text in question is an assigned reading, the act of desertion gains on weight: like the soldier who quits her or his post without permission, such readers make themselves liable to face consequences for their actions. Yet, adding a mutinous dimension to the act of desertion, the decision to not engage with reading might also arise from ideology, say, when the given author was a racist or sexist, or when the content of the text goes against what the reader believes in. In such cases, to extend the military service metaphor, the insubordinate readers act like a conscientious objector: they recognize their right to refuse to read the text on the ground of freedom of thought, conscience, or religion.
 
-**Reading-as-Commoning**
-<blockquote>
-commoning (as verb): Sharing or participating, communion; Exercise of common rights over pasture, etc. (as noun): The common body of the people of any place; the community or commonalty; sometimes, the commonwealth or state, as a collective entity. (OED)
-</blockquote>
+### Reading-as-Commoning
+<dl>
+	<dd>
+		<p><b>commoning</b> (as verb): Sharing or participating, communion; Exercise of common rights over pasture, etc. | (as noun) <b>common</b>: The common body of the people of any place; the community or commonalty; sometimes, the commonwealth or state, as a collective entity. (OED)</p>
+	</dd>
+</dl>
 
 Reading is not always an individual activity of a lone reader engaging with a single text. More often than one might assume—think about schools, libraries, or reading groups—we tend to read with others. In most cases such collective reading not only follows the exact same order of the text and its logical reasoning as intended by the author; it also reinforces it. Pupils in class are being taught what a ‘good’ interpretation of a text is just as participants in most official reading groups in are guided toward a ‘correct’ reading of a given text. However, what happens when a group of readers engages with a text against the intentions of the author (or the authorities) and, by doing so, strives to meet collective goals such as enrichening their shared knowledge, social or political boundary-crossing, or even dissidence? To describe such modes of reading, we propose the long obsolete term commoning which is making its comeback in the recent years in progressive politics. Meaning as much as making something common out of something individual, or, collectively making use of something, reading-as-commoning hence refers to such situations in which a collective reader takes up the reading against the prescribed norms and expectations with focus and intentions of re-claiming the given text in unexpected ways as their own. The reader-as-poacher enters the forbidden zone of a text to leave destruction. The reader-as-commoner, as if in direct opposition, enters the forbidden zone of a text to create something new. Yet this new creation, other than in the examples discussed above, is not for her or his own use only; it is something that benefits a larger group, community or collective entity of readers.
 
-**Reading-as-Everyman’s Right**
-<blockquote>
-roam (verb): to walk, move about, or travel aimlessly or unsystematically | fig. esp. of thought, the mind, etc.: to drift aimlessly or randomly; to move about without dwelling on anything in particular (OED)
-</blockquote>
+### Reading-as-Everyman’s Right
+<dl>
+	<dd>
+		<p><b>roam</b> (verb): to walk, move about, or travel aimlessly or unsystematically | (fig. esp. of thought, the mind, etc.): to drift aimlessly or randomly; to move about without dwelling on anything in particular </p>
+	</dd>
+</dl>
 
 Navigating a text, interpreting it and creatively appropriating it for their own purposes, readers make use of (seize?) what is commonly referred to as the freedom to roam or “everyman’s right.” This civil privilege is particularly rooted in some of the mountainous European countries, where it is known as “allemansrätt” (Sweden, Norway) or “jokamiehenoikeus” (Finland). The law serves to assure every man and every woman access to public and private lands for recreational and exercise purposes and defines the conditions under which this is allowed. While particular rules vary from country to country, everyman’s right allows the general public to move freely across the country, to have access to rivers, lakes and forests, to put up a tent for a night or two and to pick wild fruit. While this allows “public” access and the possibility to participate, it also sets limits: the owners of the property are not to be disturbed, property, plants and animals are not to be vandalized. “Everyman” thus can roam about freely, provided that he leaves no lasting traces on the land.
 
 The freedom to roam, or “everyman’s right” is somewhat similar to how readers wander through a text: they are free to move across the page in whichever speed they wish to, pausing and resuming their reading at their own space–or taking a shortcut into the next section, passing by a river. They may put up their tent for a while at a particularly beautiful vista in the narrative, get some water from the river and pick a few sweet wild berries. After this immersion into the text, they move on into the next valley or another text, leaving landscape and text in good order, but taking with them their own creative interpretation of the text and, hopefully, a treasured memory of a meaningful and pleasant literary and intellectual outing. By extension, we argue that all readers (including you) are free to do so with all texts (including this text); and when they do, they thus appropriate it—yet without destroying or preventing later readers from having access to it. (As part of an everyman’s right to a text, readers might take a text to produce their own, as happens in fan culture, fan edits, or the rewriting of Cultural Revolution manuscript fiction when readers turn into secondary authors or full-fledged authors themselves. But this is yet another story to tell…)
-
-<div class="row">
-<div class="6u 12u$(small)">
-<h4>Reading-as-Jay-walking</h4>
-<blockquote>
-jay-walker (noun): A pedestrian who crosses a street without regard to traffic regulations: She jay-walked through the traffic-jam of St. Giles, vaguely hoping to be run over. | Although there are penalties for jay-walking they do not seem to be much needed. (OED)
-</blockquote>
-<p>To act as a reader-turned-jay-walker is to approach a text without much regard to how it is expected to be read by the author and/or publisher. One example could be the very common practice of reading a newspaper or magazine from the last page, rather than from the first. Another example is to skip chapters (or the footnotes) in academic books or to read only the introduction and conclusion, or, even, to only skim through a table of contents and a few pages that spark one’s interest and then forget about the rest of the book (she/he who is without this sin be the first to throw a stone!). Yet, the penalties of real-life jay-walking are usually only symbolic. Thus, by extension, reading-as-jay-walking is also not such a dangerous act against the author and text as poaching. Still, and here is a significant difference, by the fact that there are some penalties for it, the reader-turned-jay-walker acts out the reading with a slight possibility of danger. This danger, perhaps, is in the end what motivates and provokes the action to some extent in the first place too. Or, as in jay-walking on the streets, it is the easiness in reaching the destination when compared to taking the prescribed route.</p>
-</div>
-
-<div class="6u 12u$(small)">
-<h4>Reading-as-Trespassing</h4>
-<blockquote>trespass (verb): to enter unlawfully on the land of another, or on that which is the property or right of another. | figurative with on or upon: To make an improper or uninvited inroad on (a person's time, attention, patience, etc.); to intrude on or upon the rights or domain of; to encroach on, infringe. (OED)</blockquote>
-<p>Reading-as-trespassing is the logical yet also much more dangerous next step to reading-as-jay-walking, in that here the reader not only entirely disregards the intentions of the author and/or text but also actively reads against them. Fully challenging the basic assumptions of a text, the trespasser breaks all rules and roams on the textual sites fully at will. One, perhaps not so problematic example, is when a young reader reaches for the forbidden ‘adult-only’ book in their parents’ collection. While this act is a trespassing only in regards to the ownership and allowance over the text, to then only read the erotic images in the given book—or: to rip them out to covertly show to peers—directly acts as trespassing on the text too. Another widespread example is when students add obscene drawings into academic books, write secret messages or otherwise alter the textual construct of books borrowed from a library when learning or preparing for exams. Here, the potential penalty (fine) is outweighed by the mere fun of the action. If to read is to engage with the meanings of texts (add link to What is a Reading Act?), such alterations also constitute reading.</p>
-</div>
-</div>
-
-<div class="row">
-<div class="6u 12u$(small)">
-<h4>Reading-as-Remixing</h4>
-<blockquote>remix (verb): To mix again (in various senses). | (spec. sound recording): To create a new version of (a recording) by rebalancing or recombining the separate instrumental or vocal tracks; (now also) to reinterpret or rework (an existing music recording), typically by altering the rhythm or instrumentation, often in a radical way. (OED)</blockquote>
-<p>While reading-as-trespassing is fairly straightforward, reading-as-remixing is its symbolic opposite: to remix a text is to engage with it so deeply that new, unintended meanings appear; or, to engage with it only in the shallowest way—as an object to rip apart and reconstruct—and then to take it and make something entirely new out of it. Especially the Dadaist cut-up technique later also popularized by the Beatniks is a vivid example: here, readers would take examples of written materials at random, cut them in pieces constituted by single sentences or words, mix them up and see what new meanings emerge when put back together. Given that most of the texts created in this way are far from reasonable, reading-as-remixing can end in a full departure from traditionally understood concepts of meaning and interpretation. Sampling of texts read-out-loud or of political speeches or fragments of films common to DJing in the hip-hop culture is an example of how reading-as-remixing might also create entirely new meanings. Here, as in fan cultures such as fan-fiction writing, the clear demarcation between readers and authors of texts vanishes, illustrating the complicities and complexities of the role attributed to readers—a role that clearly is not reduced to passive reception of texts and their meanings.</p>
-</div>
-<div class="6u 12u$(small)">
-<h4>Reading-as-Deserting</h4>
-<blockquote>desert (verb): To abandon, forsake, relinquish, give up (a thing); to depart from (a place or position). spec. of a soldier or sailor: To quit without permission, run away from (the service, his colors, ship, post of duty, commander, or comrades). (OED)</blockquote>
-<p>Leaving the authorial intention and the text itself, the reader-who-deserts abandons the text entirely. She or he throws the book away, not to think or engage with it anymore. Here, the example of students who refuse to engage with a text deemed important for an exam comes to one’s mind immediately. If the text in question is an assigned reading, the act of desertion gains on weight: like the soldier who quits her or his post without permission, such readers make themselves liable to face consequences for their actions. Yet, adding a mutinous dimension to the act of desertion, the decision to not engage with reading might also arise from ideology, say, when the given author was a racist or sexist, or when the content of the text goes against what the reader believes in. In such cases, to extend the military service metaphor, the insubordinate readers act like a conscientious objector: they recognize their right to refuse to read the text on the ground of freedom of thought, conscience, or religion.</p>
-</div>
-</div>
-
-<div class="row">
-<div class="6u 12u$(small)">
-<h4>Reading-as-Commoning</h4>
-<blockquote>commoning (as verb): Sharing or participating, communion; Exercise of common rights over pasture, etc. (as noun): The common body of the people of any place; the community or commonalty; sometimes, the commonwealth or state, as a collective entity. (OED)</blockquote>
-<p>Reading is not always an individual activity of a lone reader engaging with a single text. More often than one might assume—think about schools, libraries, or reading groups—we tend to read with others. In most cases such collective reading not only follows the exact same order of the text and its logical reasoning as intended by the author; it also reinforces it. Pupils in class are being taught what a ‘good’ interpretation of a text is just as participants in most official reading groups in are guided toward a ‘correct’ reading of a given text. However, what happens when a group of readers engages with a text against the intentions of the author (or the authorities) and, by doing so, strives to meet collective goals such as enrichening their shared knowledge, social or political boundary-crossing, or even dissidence? To describe such modes of reading, we propose the long obsolete term commoning which is making its comeback in the recent years in progressive politics. Meaning as much as making something common out of something individual, or, collectively making use of something, reading-as-commoning hence refers to such situations in which a collective reader takes up the reading against the prescribed norms and expectations with focus and intentions of re-claiming the given text in unexpected ways as their own. The reader-as-poacher enters the forbidden zone of a text to leave destruction. The reader-as-commoner, as if in direct opposition, enters the forbidden zone of a text to create something new. Yet this new creation, other than in the examples discussed above, is not for her or his own use only; it is something that benefits a larger group, community or collective entity of readers.</p>
-</div>
-<div class="6u 12u$(small)">
-<h4>Reading-as-Everyman’s Right</h4>
-<blockquote>roam (verb): to walk, move about, or travel aimlessly or unsystematically | fig. esp. of thought, the mind, etc.: to drift aimlessly or randomly; to move about without dwelling on anything in particular (OED)</blockquote>
-<p>Navigating a text, interpreting it and creatively appropriating it for their own purposes, readers make use of (seize?) what is commonly referred to as the freedom to roam or “everyman’s right.” This civil privilege is particularly rooted in some of the mountainous European countries, where it is known as “allemansrätt” (Sweden, Norway) or “jokamiehenoikeus” (Finland). The law serves to assure every man and every woman access to public and private lands for recreational and exercise purposes and defines the conditions under which this is allowed. While particular rules vary from country to country, everyman’s right allows the general public to move freely across the country, to have access to rivers, lakes and forests, to put up a tent for a night or two and to pick wild fruit. While this allows “public” access and the possibility to participate, it also sets limits: the owners of the property are not to be disturbed, property, plants and animals are not to be vandalized. “Everyman” thus can roam about freely, provided that he leaves no lasting traces on the land.
-
-The freedom to roam, or “everyman’s right” is somewhat similar to how readers wander through a text: they are free to move across the page in whichever speed they wish to, pausing and resuming their reading at their own space–or taking a shortcut into the next section, passing by a river. They may put up their tent for a while at a particularly beautiful vista in the narrative, get some water from the river and pick a few sweet wild berries. After this immersion into the text, they move on into the next valley or another text, leaving landscape and text in good order, but taking with them their own creative interpretation of the text and, hopefully, a treasured memory of a meaningful and pleasant literary and intellectual outing. By extension, we argue that all readers (including you) are free to do so with all texts (including this text); and when they do, they thus appropriate it—yet without destroying or preventing later readers from having access to it. (As part of an everyman’s right to a text, readers might take a text to produce their own, as happens in fan culture, fan edits, or the rewriting of Cultural Revolution manuscript fiction when readers turn into secondary authors or full-fledged authors themselves. But this is yet another story to tell…)</p>
-</div>
-</div>
 
 ## References
 

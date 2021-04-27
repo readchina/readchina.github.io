@@ -2,6 +2,7 @@
 layout: post
 title: '01: What is a Reading Act?'
 author: 'Lena Henningsen'
+date: April 2021
 abstract: 'Reading acts emphasize the event-like nature of reading. They are proposed as concept of research which focuses on the individual readers, groups of readers and the social, political, historical, intellectual, cultural and literary contexts under which readings take place; it also captures – if sources permit – to take the materiality of texts into the analysis.'
 description: 'A READCHINA Intervention'
 nav-menu: false
