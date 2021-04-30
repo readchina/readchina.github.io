@@ -8,6 +8,14 @@ To preview and work on the website on your computer you need to have ruby `2` an
 
 If you maintain multiple sites, we recommend using [rbenv](https://github.com/rbenv/rbenv) to manage the parallel installation of mutliple ruby environments. 
 
+For processing word documents and transforming them into pdfs. We use [pandoc](https://pandoc.org/index.html):
+
+```shell
+brew install pandoc
+```
+
+High Qualiy Pdfs are generated using [LateX](https://www.tug.org/mactex/), you must install this separately before the conversions can take place, its probably best to restart your PC once before doing the first pdf conversion after installing Latex. 
+
 ## Installation
 You only need to do this once. Use `homebrew` to install the latest ruby.
 1.  Install the latest ruby
@@ -113,6 +121,13 @@ You should only adjust `title`, `author` and `abstract`, use the number format o
 
 Once you adjusted the header you can commit your changes and perform a final review of how the intervention will look in a browser. Once you're satsified that contents are correct, italics etc, are where they belong. Open a Pull Request. To brush up on `markdown` see the links below. 
 
+To generate the downloadable `pdf`, use pandoc as well. Open the `interventions/` folder inside your terminal and use the following command, in the example the file name is `What_is`, adjust this to the name of the file you whish to convert making sure that the input and outpu file names **match exactly**:
+
+```shell
+pandoc What_is.md --pdf-engine=xelatex --variable CJKmainfont="STSong" -o pdf/What_is.pdf
+```
+
+After running this command, a new file should be inside the `interventions/pdf/` folder, which can be downloaded from our webpage once the intervention is published. 
 
 ### Further Reading and Tutorials
 -   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
