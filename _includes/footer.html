@@ -98,6 +98,9 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+				{% if page.description == 'A READCHINA Intervention' %}
+				<li><form action="pdf/{{ page.name | replace: '.md', '.pdf' }}" method="get"><button class="button icon fa-download" type="submit" formmethod="get" formtarget="_blank">Read as PDF</button></form></li>
+				{% endif %}
 			</ul>
 			<div class="row uniform">
 				<div class="4u 12u$(small)">
@@ -142,11 +145,9 @@
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
-
 			</ul>
 		</div>
 	</footer>
-
 </div>
 
 <!-- Scripts -->
