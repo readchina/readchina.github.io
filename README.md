@@ -110,6 +110,7 @@ At the very top of the converted markdown file, you need to insert and adjust th
 layout: post
 title: '01: What is a Reading Act?'
 author: 'Lena Henningsen'
+date: '2021-04-21'
 abstract: 'Reading acts emphasize …'
 description: 'A READCHINA Intervention'
 nav-menu: false
@@ -117,7 +118,7 @@ show_tile: false
 ---
 ```
 
-You should only adjust `title`, `author` and `abstract`, use the number format of the example. Don't try to put any links, images etc, into the abstract. Keep it short and simple. 
+You should only adjust `title`, `author`, `date` and `abstract`, use the number format of the example. Don't try to put any links, images etc, into the abstract. Keep it short and simple. 
 
 Once you adjusted the header you can commit your changes and perform a final review of how the intervention will look in a browser. Once you're satsified that contents are correct, italics etc, are where they belong. Open a Pull Request. To brush up on `markdown` see the links below. 
 
