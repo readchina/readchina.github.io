@@ -21,7 +21,10 @@
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
-			{% if page.author %}<p style="text-align: right;">{{ page.author }}</p>{% endif %}
+			{% if page.author %}
+			<p style="text-align: right;">{{ page.author }}</p>
+			<p style="text-align: right;">{{ page.date }}</p>
+			{% endif %}
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
@@ -31,6 +34,10 @@
 </div>
 
     {% include footer.html %}
+
+	{% if page.description == 'A READCHINA Intervention' %}
+	{% include coins.html %}
+	{% endif %}
 
 </body>
 
