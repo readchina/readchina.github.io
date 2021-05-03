@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guest Lexture by Dr. Mareike Ohlberg on Academic Freedom
+title: Guest Lecture by Dr. Mareike Ohlberg on Academic Freedom
 ---
 
 <span class="image right"><img src="/assets/images/Ohlberg_Vortrag.jpg" alt="" title="" style=""></span>
