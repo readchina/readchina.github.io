@@ -3,7 +3,7 @@ layout: 'post'
 title: '02: Why Poach When You Can Wander?'
 author: 'Damian Mandzunowski and Lena Henningsen'
 date: '2021-05-04'
-abstract: "The powerful metaphor of reading-as-poaching was proposed by Michel de Certeau as an alternative to the writing-reading dichotomy. The metaphor points to the appropriation of the text by the reader in opposition to the author, if necessary, by force. While the concept has proven highly inspiring, it bears today connotations that are hard to ignore. However, rather than discard the very insightful concept as a whole, we seek and explore a range of alternative concepts and metaphors to frame it with—both found in de Certeau's writings as well as proposed by us."
+abstract: "The powerful metaphor of reading-as-poaching was proposed by Michel de Certeau as an alternative to the writing-reading dichotomy. The metaphor points to the appropriation of the text by the reader in opposition to the author, if necessary, by force. While the concept has proven highly inspiring, it bears today connotations that are hard to ignore. However, rather than discard is as a whole, we seek and explore a range of alternative ideas and metaphors both found in de Certeau's writings and proposed by us."
 description: 'A READCHINA Intervention'
 nav-menu: false
 show_tile: false
