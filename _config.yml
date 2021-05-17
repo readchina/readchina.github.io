@@ -29,6 +29,9 @@ github_url: https://github.com/readchina
 # slack_url:
 twitter_url: https://twitter.com/zhong_daming
 
+# monitoring
+google_analytics: G-94DDGB7KXT
+
 # build settings
 markdown: kramdown
 
