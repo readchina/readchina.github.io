@@ -134,3 +134,4 @@ After running this command, a new file should be inside the `interventions/pdf/`
 -   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 -   [GitHub Pages Documentation](https://help.github.com/en/github/working-with-github-pages)
 -   [Programming Historian: Jekyll gh-pages Tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+-   [Google Analytics Dashboard](https://analytics.google.com/analytics/web/provision/#/p272623122/reports/defaulthome)
