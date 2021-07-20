@@ -21,6 +21,13 @@ show_tile: true
 			</tr>
 		</thead>
 		<tbody>
+		<tr>
+			<td>Mandzunowski, Damian</td>				
+			<td>Book Review: Jie Li, <i>Utopian Ruins: A Memorial Museum of the Mao Era</i> (Durham: Duke University Press, 2020)</td>
+			<td>PRC History Book Review Series, No. 28</td>
+			<td>2021-07-12</td>
+			<td><a href="http://prchistory.org/wp-content/uploads/2021/07/Jie_Li_review.pdf" target="_blank" rel="noopener noreferrer">LINK</a></td>
+		</tr>
 			<tr>
 				<td>Henningsen, Lena</td>				
 				<td>Unofficial Literature from the Cultural Revolution</td>
@@ -94,4 +101,3 @@ show_tile: true
 		</tbody>
 	</table>
 </div>
-
