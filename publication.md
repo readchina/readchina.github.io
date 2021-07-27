@@ -22,6 +22,20 @@ show_tile: true
 		</thead>
 		<tbody>
 		<tr>
+			<td>Henningsen, Lena</td>				
+			<td>“Maple” as a Comic Book Adaption: Introduction to Text and Translation</td>
+			<td>MCLC Resource Center</td>
+			<td>2021-07-26</td>
+			<td><a href="https://u.osu.edu/mclc/online-series/maple-intro/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+		</tr>
+		<tr>
+			<td>Henningsen, Lena (with Joschua Seiler)</td>				
+			<td>Zheng Yi: Maple (translation)</td>
+			<td>MCLC Resource Center</td>
+			<td>2021-07-26</td>
+			<td><a href="https://u.osu.edu/mclc/online-series/maple/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+		</tr>
+		<tr>
 			<td>Mandzunowski, Damian</td>				
 			<td>Book Review: Jie Li, <i>Utopian Ruins: A Memorial Museum of the Mao Era</i> (Durham: Duke University Press, 2020)</td>
 			<td>PRC History Book Review Series, No. 28</td>
@@ -58,7 +72,7 @@ show_tile: true
 			</tr>
 			<tr>
 				<td>Henningsen, Lena (with Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler and Sen Wei)</td>				
-				<td>Ye Yonglie: Little Smarty Travels to the Future</td>
+				<td>Ye Yonglie: Little Smarty Travels to the Future (translation)</td>
 				<td>MCLC Resource Center</td>
 				<td>2020-09-16</td>
 				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/" target="_blank" rel="noopener noreferrer">LINK</a></td>
