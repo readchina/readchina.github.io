@@ -20,11 +20,12 @@ nav-menu: true
                 </ul>
                 <h3>Research Assistants:</h3>
                 <ul>
+                    <li>Shaoqi Chen</li>
                     <li>Mira Grünwald</li>
+                    <li>Qin Gu</li>
                     <li>Wenxin Huang</li>
+                    <li>Joschua Seiler</li>
                     <li>Maryna Yanhirava</li>
-                    <li>Gu Qin</li>
-                    <li>Chen Shaoqi</li>
                 </ul>
             </div>
         </div>
