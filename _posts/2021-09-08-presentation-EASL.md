@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duncan Paterson's Talk at 41st Annual EASL 2018 Conference"
+title: "Duncan Paterson's Talk at 41st Annual EASL 2021 Conference"
 description: "FAIR Data Principles and Global Accessibility: A Case Study"
 ---
 
