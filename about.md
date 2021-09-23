@@ -22,8 +22,9 @@ See the [Team page](https://readchina.github.io/team) for details about the *REA
 - [Prof. Dr. Nicolai Volland](https://asian.la.psu.edu/people/nmv10), Pennsylvania State University
 
 ### Research Assistants
+- Shaoqi Chen
 - Mira Grünwald
+- Qin Gu
 - Wenxin Huang
+- Joschua Seiler
 - Maryna Yanhirava
-- Gu Qin
-- Chen Shaoqi
