@@ -21,96 +21,123 @@ show_tile: true
 			</tr>
 		</thead>
 		<tbody>
-		<tr>
-			<td>Henningsen, Lena</td>				
-			<td>“Maple” as a Comic Book Adaption: Introduction to Text and Translation</td>
-			<td>MCLC Resource Center</td>
-			<td>2021-07-26</td>
-			<td><a href="https://u.osu.edu/mclc/online-series/maple-intro/" target="_blank" rel="noopener noreferrer">LINK</a></td>
-		</tr>
-		<tr>
-			<td>Henningsen, Lena (with Joschua Seiler)</td>				
-			<td>Zheng Yi: Maple (translation)</td>
-			<td>MCLC Resource Center</td>
-			<td>2021-07-26</td>
-			<td><a href="https://u.osu.edu/mclc/online-series/maple/" target="_blank" rel="noopener noreferrer">LINK</a></td>
-		</tr>
-		<tr>
-			<td>Mandzunowski, Damian</td>				
-			<td>Book Review: Jie Li, <i>Utopian Ruins: A Memorial Museum of the Mao Era</i> (Durham: Duke University Press, 2020)</td>
-			<td>PRC History Book Review Series, No. 28</td>
-			<td>2021-07-12</td>
-			<td><a href="http://prchistory.org/wp-content/uploads/2021/07/Jie_Li_review.pdf" target="_blank" rel="noopener noreferrer">LINK</a></td>
-		</tr>
 			<tr>
-				<td>Henningsen, Lena</td>				
+				<td>Henningsen, Lena</td>
+				<td>“Maple” as a Comic Book Adaption: Introduction to Text and Translation</td>
+				<td>MCLC Resource Center</td>
+				<td>2021-07-26</td>
+				<td><a href="https://u.osu.edu/mclc/online-series/maple-intro/" target="_blank"
+						rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Henningsen, Lena (with Joschua Seiler)</td>
+				<td>Zheng Yi: Maple (translation)</td>
+				<td>MCLC Resource Center</td>
+				<td>2021-07-26</td>
+				<td><a href="https://u.osu.edu/mclc/online-series/maple/" target="_blank"
+						rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Mandzunowski, Damian</td>
+				<td>Book Review: Jie Li, <i>Utopian Ruins: A Memorial Museum of the Mao Era</i> (Durham: Duke University
+					Press, 2020)</td>
+				<td>PRC History Book Review Series, No. 28</td>
+				<td>2021-07-12</td>
+				<td><a href="http://prchistory.org/wp-content/uploads/2021/07/Jie_Li_review.pdf" target="_blank"
+						rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Yang, Yuyu 杨玉宇</td>
+				<td>日常实践塑造知识体系- 评高哲一《近代中国的印刷力量：晚清民国至共和国初期的知识人与工业化出版》[Knowledge Making through Everyday Practices:
+					Review Robert Culp, The Power of Print in Modern China: Intellectuals and Industrial Publishing from
+					the End of Empire to Maoist State Socialism]</td>
+				<td>清华社会学评论 [Tsinghua Sociological Review], Vol. 14., December 2020, 191-199.</td>
+				<td>2020-12</td>
+				<td><a href="https://mall.cnki.net/magazine/article/QHSP202002010.htm" target="_blank"
+					rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Henningsen, Lena</td>
 				<td>Unofficial Literature from the Cultural Revolution</td>
 				<td>MCLC Resource Center</td>
 				<td>2020-09-30</td>
 				<td><a href="https://u.osu.edu/mclc/log-in/" target="_blank" rel="noopener noreferrer">LINK</a></td>
 			</tr>
 			<tr>
-				<td>Henningsen, Lena</td>				
+				<td>Henningsen, Lena</td>
 				<td>Poaching World Literature in China’s Long 1970s</td>
 				<td>Asian Journal of African Studies, no. 48, 119-149</td>
 				<td>2020</td>
-				<td><a href="https://www.researchgate.net/publication/342521654_POACHING_WORLD_LITERATURE_IN_CHINA%27S_LONG_1970s_Asian_Journal_of_African_Studies" target="_blank" rel="noopener noreferrer">LINK</a></td>
+				<td><a href="https://www.researchgate.net/publication/342521654_POACHING_WORLD_LITERATURE_IN_CHINA%27S_LONG_1970s_Asian_Journal_of_African_Studies"
+						target="_blank" rel="noopener noreferrer">LINK</a></td>
 			</tr>
 			<tr>
-				<td>Henningsen, Lena</td>				
-				<td>Book Review: The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism. By Robert Culp</td>
+				<td>Henningsen, Lena</td>
+				<td>Book Review: The Power of Print in Modern China: Intellectuals and Industrial Publishing from the
+					End of Empire to Maoist State Socialism. By Robert Culp</td>
 				<td>The Journal of Asian Studies, Vol. 79, no. 2, 457-459</td>
 				<td>2020</td>
-				<td><a href="https://doi.org/10.1017/S002191182000008X" target="_blank" rel="noopener noreferrer">10.1017/S002191182000008X</a></td>
+				<td><a href="https://doi.org/10.1017/S002191182000008X" target="_blank"
+						rel="noopener noreferrer">10.1017/S002191182000008X</a></td>
 			</tr>
 			<tr>
-				<td>Henningsen, Lena</td>				
+				<td>Henningsen, Lena</td>
 				<td>Little Smarty Travels to the Future: Introduction to the Text and Notes on the Translation</td>
 				<td>MCLC Resource Center</td>
 				<td>2020-09-21</td>
-				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-intro/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-intro/" target="_blank"
+						rel="noopener noreferrer">LINK</a></td>
 			</tr>
 			<tr>
-				<td>Henningsen, Lena (with Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska Roth, Joschua Seiler and Sen Wei)</td>				
+				<td>Henningsen, Lena (with Adrian Ewald, Lars Konheiser, Elena Mannich, Federica Monchiero, Franziska
+					Roth, Joschua Seiler and Sen Wei)</td>
 				<td>Ye Yonglie: Little Smarty Travels to the Future (translation)</td>
 				<td>MCLC Resource Center</td>
 				<td>2020-09-16</td>
-				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/" target="_blank"
+						rel="noopener noreferrer">LINK</a></td>
 			</tr>
 			<tr>
-				<td>Henningsen, Lena</td>				
+				<td>Henningsen, Lena</td>
 				<td>Literature of the Cultural Revolution</td>
 				<td>Gu, Ming Dong [ed.]: Routledge Handbook of Modern Chinese Literature, Oxon: Routledge, 423-434</td>
 				<td>2019</td>
-				<td><a href="https://www.routledgehandbooks.com/doi/10.4324/9781315626994-34" target="_blank" rel="noopener noreferrer">10.4324/9781315626994-34</a></td>
+				<td><a href="https://www.routledgehandbooks.com/doi/10.4324/9781315626994-34" target="_blank"
+						rel="noopener noreferrer">10.4324/9781315626994-34</a></td>
 			</tr>
 			<tr>
 				<td>Henningsen, Lena</td>
 				<td>Kosmopolitisches Lesen: Weltliteratur während der chinesischen Kulturrevolution</td>
 				<td>Dieter Lamping [ed.]: Vergleichende Weltliteraturen, Stuttgart: Metzler, 235-251</td>
 				<td>2019</td>
-				<td><a href="https://doi.org/10.1007/978-3-476-04925-4_16" target="_blank" rel="noopener noreferrer">10.1007/978-3-476-04925-4_16</a></td>
+				<td><a href="https://doi.org/10.1007/978-3-476-04925-4_16" target="_blank"
+						rel="noopener noreferrer">10.1007/978-3-476-04925-4_16</a></td>
 			</tr>
 			<tr>
 				<td>Yang, Lara.Y</td>
-				<td>Book Review Robert Culp, The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism (New York: Columbia University Press, 2019)</td>
+				<td>Book Review Robert Culp, The Power of Print in Modern China: Intellectuals and Industrial Publishing
+					from the End of Empire to Maoist State Socialism (New York: Columbia University Press, 2019)</td>
 				<td>The PRC History Review Book Review Series, no. 11</td>
 				<td>2019-09</td>
-				<td><a href="https://doi.org/10.1163/22106286-12341334" target="_blank" rel="noopener noreferrer">10.1163/22106286-12341334</a></td>
-			</tr>
-					<tr>
-				<td>Yang, Lara.Y</td>
-				<td>Archaistic Perfection: the Production of the Woodblock-Printed Edition of The Communist Manifesto in 1970s China</td>
-				<td>East Asian Publishing and Society, 9, 151-189</td>
-				<td>2019</td>
-				<td><a href="http://prchistory.org/wp-content/uploads/2019/09/Culp_review.pdf" target="_blank" rel="noopener noreferrer">LINK</a></td>
+				<td><a href="https://doi.org/10.1163/22106286-12341334" target="_blank"
+						rel="noopener noreferrer">10.1163/22106286-12341334</a></td>
 			</tr>
 			<tr>
-				<td>Henningsen, Lena</td>				
+				<td>Yang, Lara.Y</td>
+				<td>Archaistic Perfection: the Production of the Woodblock-Printed Edition of The Communist Manifesto in
+					1970s China</td>
+				<td>East Asian Publishing and Society, 9, 151-189</td>
+				<td>2019</td>
+				<td><a href="http://prchistory.org/wp-content/uploads/2019/09/Culp_review.pdf" target="_blank"
+						rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Henningsen, Lena</td>
 				<td>Handwritten Entertainment Fiction (手抄本)</td>
 				<td>The Mao Era in Objects</td>
 				<td>2019</td>
-				<td><a href="https://maoeraobjects.ac.uk/object-biographies/handwritten-entertainment-fiction-手抄本/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+				<td><a href="https://maoeraobjects.ac.uk/object-biographies/handwritten-entertainment-fiction-手抄本/"
+						target="_blank" rel="noopener noreferrer">LINK</a></td>
 			</tr>
 		</tbody>
 	</table>
