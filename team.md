@@ -47,33 +47,17 @@ nav-menu: true
         </div>
         <div class="row">
             <div class="4u 12u$(medium)">
-                <a href="team/lara.html" class="image fit">
-                    <img src="{% link /assets/images/LaraYuyuYang.jpg %}" alt="" data-position="25% 25%" />
+                <a href="team/dayton.html" class="image fit">
+                    <img src="{% link /assets/images/DaytonLekner.jpg %}" alt="" data-position="25% 25%" />
                 </a>
             </div>
             <div class="8u$ 12u$(medium)">
                 <header class="major">
-                    <h3>Lara Yuyu Yang</h3>
+                    <h3>Dayton Lekner</h3>
                 </header>
-                <p>Material traces or reading, reading used books</p>
+                <p>Sound, hearing, and social history</p>
                 <ul class="actions">
-                    <li><a href="team/lara.html" class="button">Read more</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="4u 12u$(medium)">
-                <a href="team/duncan.html" class="image fit">
-                    <img src="{% link /assets/images/Paterson.jpeg %}" alt="" data-position="top center" />
-                </a>
-            </div>
-            <div class="8u$ 12u$(medium)">
-                <header class="major">
-                    <h3>Duncan Paterson</h3>
-                </header>
-                <p>Reading code, machine reading, born digital reading. </p>
-                <ul class="actions">
-                    <li><a href="team/duncan.html" class="button">Read more</a></li>
+                    <li><a href="team/dayton.html" class="button">Read more</a></li>
                 </ul>
             </div>
         </div>
@@ -106,6 +90,38 @@ nav-menu: true
                 <p>Collective reading activities—and their interactions with everyday life and politics.</p>
                 <ul class="actions">
                     <li><a href="team/damian.html" class="button">Read more</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="4u 12u$(medium)">
+                <a href="team/duncan.html" class="image fit">
+                    <img src="{% link /assets/images/Paterson.jpeg %}" alt="" data-position="top center" />
+                </a>
+            </div>
+            <div class="8u$ 12u$(medium)">
+                <header class="major">
+                    <h3>Duncan Paterson</h3>
+                </header>
+                <p>Reading code, machine reading, born digital reading. </p>
+                <ul class="actions">
+                    <li><a href="team/duncan.html" class="button">Read more</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="4u 12u$(medium)">
+                <a href="team/lara.html" class="image fit">
+                    <img src="{% link /assets/images/LaraYuyuYang.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+            </div>
+            <div class="8u$ 12u$(medium)">
+                <header class="major">
+                    <h3>Lara Yuyu Yang</h3>
+                </header>
+                <p>Material traces or reading, reading used books</p>
+                <ul class="actions">
+                    <li><a href="team/lara.html" class="button">Read more</a></li>
                 </ul>
             </div>
         </div>
