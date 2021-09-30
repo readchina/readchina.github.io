@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Lara Yuyu Yang"
-description: "PostDoc"
+description: "Post-Doctoral Researcher"
 nav-menu: false
 show_tile: false
 ---
 
-<h3>{{ page.description }}</h3> 
+<h3>{{ page.description }}</h3>
 
 <div class="row">
 <span class="image left"><img src="/assets/images/LaraYuyuYang.jpg"></span>
