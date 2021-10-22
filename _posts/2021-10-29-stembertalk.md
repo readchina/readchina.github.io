@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk by Nick Stember (Cambridge) on Chinese Star Wars
+title: Talk by Nick Stember on Chinese Star Wars
 ---
 
 <span class="image right"><img src="/assets/images/READCHINA_StemberPoster.png" alt="" title="" style=""></span>
