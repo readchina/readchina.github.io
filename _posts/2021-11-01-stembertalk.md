@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: Talk by Nick Stember on Chinese Star Wars
 ---
 
