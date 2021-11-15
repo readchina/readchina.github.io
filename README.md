@@ -18,11 +18,18 @@ High Qualiy Pdfs are generated using [LateX](https://www.tug.org/mactex/), you m
 
 ## Installation
 You only need to do this once. Use `homebrew` to install the latest ruby.
-1.  Install the latest ruby
+1.  Either install the latest ruby for your system
     ```zsh
     brew install ruby
     ```
-1.  Then add ruby to your path.
+    or use `rbenv`:
+    ```shell
+    rbenv install 2.7.2
+    ```
+
+    (rbenv is recommended for macOS on apple silicon)
+
+1.  Then add ruby to your path (not necessary with `rbnev`)
     ```zsh
     echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
     ```
@@ -31,7 +38,8 @@ You only need to do this once. Use `homebrew` to install the latest ruby.
     gem install --user-install bundler jekyll
     ```
 
-(if you are still using `bash` instead of `zsh` type `brew info ruby` to see the correct command for your system.)
+Note: If you are still using `bash` instead of `zsh` type `brew info ruby` to see the correct command for your system.
+For `rbenv` users drop the `--user-install` flag when installing gems.
 
 ### Running locally
 If you have the necessary tools installed. Open this folder in your Terminal (CLI) and type the following.
