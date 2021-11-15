@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>ReadAct | READCHINA</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+	
+	<script src="/assets/js/vega.min.js">	</script>
+	<script src="/assets/js/vega-lite.min.js">	</script>
+	<script src="/assets/js/vega-embed.min.js">	</script>
+	
+	<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-94DDGB7KXT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-94DDGB7KXT');
+</script>
+	
+	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+</head>
+
+
+<body>
+
+    <!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header">
+	<a href="https://readchina.github.io//" class="logo"><strong>READCHINA</strong> <span>The politics of reading in the PRC</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io//">Home</a></li>
+	    	
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/about.html">About us</a></li>
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/activity.html">Activities</a></li>
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/conferences.html">Conferences</a></li>
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/interventions.html">Interventions</a></li>
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/positions.html">Positions</a></li>
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/publication.html">Publications</a></li>
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/readact.html">ReadAct</a></li>
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/reading-acts.html">Reading Acts</a></li>
+		    
+		
+		    
+		        <li><a href="https://readchina.github.io/team.html">Team</a></li>
+		    
+		
+	</ul>
+	<!-- Disable buttons since they don't do anything -->
+	<ul class="actions vertical">
+		<!-- <li><a href="#" class="button special fit icon fa-times">Close</a></li> -->
+		<li><a href="#footer" class="button fit icon fa-envelope" onclick="toggleContact()">Contact Us</a></li>
+	</ul>
+</nav>
+
+    <div id="main" class="alt">
+    <section id="one">
+    	<div class="inner">
+
+        <h2 id="readact-introduction">ReadAct: Introduction</h2>
+<p><a href="https://zenodo.org/badge/latestdoi/96089230"><img src="https://zenodo.org/badge/96089230.svg" alt="DOI" /></a></p>
+<p style="text-align: right;">Lena Henningsen and Duncan Paterson</p>
+
+<p>The <em>ReadAct</em> <a href="https://github.com/readchina/ReadAct">database</a> was originally developed as part of the Worlds of Reading in China’s long 1970s research project <a href="http://www.sinologie.uni-freiburg.de/forschung/projecthenningsen"><em>Lesewelten</em></a>. It is under active development as part of <em>READCHINA</em>. Here we gather pieces of analysis that our team has undertaken based on the <em>ReadAct</em> in an ongoing fashion.</p>
+
+<p><em>ReadAct</em> provides various interfaces for users to interact with its data. This page features a collection of graphical displays accompanied by short snippets of analysis. These views are updated automatically and reflect the latest stage of our ongoing work on <em>ReadAct</em>. It is therefore possible that the text and the visualization are not in perfect alignment. Should you note something odd, please let us know via the contact form. You can freely explore and interact with the views by selecting <code class="language-plaintext highlighter-rouge">Open in Vega Editor</code> from the menu button on any data visualization. The short data stories here provide a space for quick explorations based on our overarching research questions. For fuller analysis please consult the publications section of our homepage.</p>
+
+<p>For more advanced means of interacting with our dataset, please follow the link above to our data repository, which contains a SQL database and additional tools for searching and mangling our data. To cite our dataset please use the DOI link at the top of this page, to generate a citation in accordance with your style requirements.</p>
+
+<h3 id="high-level-view-of-the-database">High-level view of the database</h3>
+<p>At its core <em>ReadAct</em> implements a relational data model of individual reading acts. From this we derive a typology of reading (<code class="language-plaintext highlighter-rouge">reading-types</code>) such as: clandestine reading, collective reading, reading as performance, etc. Which connects the various agents and works. Whenever possible we try to record spatial information about the reading acts in question as well as specific bibliographical data about the publishing history of a given work. Because historical accounts of reading acts tend to be vague, we decided not to collects copy level bibliographical meta-data, but more general edition level data.</p>
+
+<p>Detailed technical documentation of the database schema, and information for developers will appear here soon.</p>
+
+<h3 id="network">Network</h3>
+<p>Network analysis (sometime likened to the close study of fur balls) provides another means of analyzing and looking at the sum of all the acts captured in <em>ReadAct</em>. The following links discuss individual graphs and their interpretation:</p>
+<ul>
+  <li><a href="./reading-acts.html">networks</a> [WIP]</li>
+  <li><a href="./db-schema.html">E-R model</a> [Coming soon]</li>
+</ul>
+
+<h2 id="reading-books-and-more">Reading books (and more)</h2>
+<p>As of spring 2021, the focus of the <em>ReadAct</em> database is on reading acts during the Cultural Revolution. The data was collated from a wide variety of autobiographical sources that record – to varying detail – what individuals, or groups of individuals, read during the Cultural Revolution. The sample consists of texts by 95 authors, of whom 71 are male, 17 are female, and for seven the gender could not be identified. These authors – most of them belonging to the generation of the educated sent-down youth (<em>zhishi qingnian</em> 知识青年 or <em>zhiqing</em> 知情) – record 1,054 reading acts, pointing to 415 identifiable authors and 234 concrete texts (fiction, non-fiction, poetry; Chinese and foreign; internal and open publication). The autobiographies were published within China and elsewhere, in print and online, between 1980 and 2016 (with the bulk of publications published after 1999), including both book-length autobiographies and shorter life-writing texts. While some of the reading acts described are cursory and may only hint at an author or a text, others are very elaborate providing us with detailed descriptions of the conditions of the reading act, an interpretation and an elaboration of the impact that a particular text – or sets of texts – may have had on an individual. Also, we define reading in a broad sense as the interaction of individuals with text, including, but not limited to, borrowing, discussing or copying a book, as well as actual reading. For a closer analysis of the concept of the reading act, please see <a href="https://readchina.github.io/interventions/What_is.html">here</a>.</p>
+
+<p>The analysis of the data thus may begin with a question about the titles read most widely at the time. (Or, to be more precise, about the titles that appear most often in written accounts of the time). The data shows that <em>The Water Margin</em> (<em>Shuihuzhuan</em> 水浒传) one of the classics of premodern Chinese fiction was most widely read, followed by two non-fictional books, both translations from English: <em>The New Class</em> by Djilas, and <em>The Rise and Fall of the Third Reich</em> by Shirer, both of which were only available at the time as internal publication. In theory, these texts were only available to cadres of the CCP – ReadAct demonstrates how porous this system had become as these texts circulated widely. As you go through the chart below, you may see that the other widely read titles similarly stem from Chinese and non-Chinese authors; also, while some were officially endorsed, many others were forbidden at the time, or only circulating internally.</p>
+
+<div id="view1a" class="viz"> </div>
+
+<p>Yet, reading can also take an extended sense, beyond the confines of literary works. We therefore took a closer look at other works of art, such as movies, paintings, or even music that was <em>read</em> according to the accounts of those remembering their life during the CR.</p>
+
+<div id="view1b" class="viz"> </div>
+
+<p>The reading (or consumption) of other cultural products shows a similar pattern to the reading of “textual text”, as officially endorsed items were read side-by-side with others which were frowned upon, or condemned at the time (as, for example, <em>The Butterfly Violin Concerto</em>).</p>
+<h3 id="popular-authors">Popular authors</h3>
+<p>The previous views look at individual works, to determine popular creators, we need to group works belonging to the same author together. It should come as no surprise that Mao Zedong is the most popular creator of works being read within our data-set. However, looking at other popular choices, we see that next to Karl Marx (another usual suspect), Lu Xun and Alexandre Dumas are on equal footing.</p>
+
+<div id="view2" class="viz"> </div>
+
+<p>It seems that the classics, both Chinese and foreign, continued to be very popular – and that works that were officially labeled as “poisonous weeds” proved to be particularly inspiring reads, in spite of Cultural Revolutionary rhetoric.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>As the result of compiling <em>ReadAct</em> we often found ourselves extending the scope of what we considered <em>reading</em>. To our knowledge few systematic studies of different types of reading have been conducted and even fewer have tried to formalize their typology in the way we have done. It is our hope that this typology can serve as a useful example for other researchers interested in the history of reading.</p>
+
+<p>Our research into the hermeneutic effects of different types of readings, the social composition of readers, the historical evolution of reading types, and the relation between works and reading types is ongoing. <em>ReadAct</em> encourages us to critically reflect our own conceptual framework and its cultural and historic specificity. Lastly, because of the collaborative nature of <em>ReadAct</em> we aim to arrive at a consistent conceptual model for different research foci. The cold logic of the machine, and its insistence on clear definition, thereby becomes a tool, to help us find new connections and test assumptions we might otherwise have missed.</p>
+
+
+        <div id="vis"></div>
+        <!-- we are relying on browser cache here not nice but works -->
+          
+            <script>
+            // get the datapackage.json from data repo all views are specified in this file
+            var datapackage = 'https://raw.githubusercontent.com/readchina/ReadAct/master/csv/datapackage.json';
+
+            fetch(datapackage)
+            .then(res => res.json())
+            .then((out) => {
+            // console.log('Check this JSON! ', out.views[0].resources.spec);
+
+            vegaEmbed('#view1a', out.views[0].resources.spec, {config: {
+  "background": "#242943",
+  "title": {"color": "#fff"},
+  "style": {"guide-label": {"fill": "#fff"}, "guide-title": {"fill": "#fff"}},
+  "axis": {"domainColor": "#fff", "gridColor": "#888", "tickColor": "#fff"}
+}});
+            })
+            .catch(err => { throw err });
+
+            </script>
+            
+            <script>
+            // get the datapackage.json from data repo all views are specified in this file
+            var datapackage = 'https://raw.githubusercontent.com/readchina/ReadAct/master/csv/datapackage.json';
+
+            fetch(datapackage)
+            .then(res => res.json())
+            .then((out) => {
+            // console.log('Check this JSON! ', out.views[0].resources.spec);
+
+            vegaEmbed('#view1b', out.views[1].resources.spec, {config: {
+  "background": "#242943",
+  "title": {"color": "#fff"},
+  "style": {"guide-label": {"fill": "#fff"}, "guide-title": {"fill": "#fff"}},
+  "axis": {"domainColor": "#fff", "gridColor": "#888", "tickColor": "#fff"}
+}});
+            })
+            .catch(err => { throw err });
+
+            </script>
+            
+            <script>
+            // get the datapackage.json from data repo all views are specified in this file
+            var datapackage = 'https://raw.githubusercontent.com/readchina/ReadAct/master/csv/datapackage.json';
+
+            fetch(datapackage)
+            .then(res => res.json())
+            .then((out) => {
+            // console.log('Check this JSON! ', out.views[0].resources.spec);
+
+            vegaEmbed('#view2', out.views[2].resources.spec, {config: {
+  "background": "#242943",
+  "title": {"color": "#fff"},
+  "style": {"guide-label": {"fill": "#fff"}, "guide-title": {"fill": "#fff"}},
+  "axis": {"domainColor": "#fff", "gridColor": "#888", "tickColor": "#fff"}
+}});
+            })
+            .catch(err => { throw err });
+
+            </script>
+            
+  </div>
+  </section>
+  </div>
+    <!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<form action="https://formspree.io/readchina@mail.sinologie.uni-freiburg.de" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="text" name="_replyto" id="email" />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6"></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-at"></span>
+					<h3>Email</h3>
+					<a href="mailto:readchina@mail.sinologie.uni-freiburg.de">readchina@mail.sinologie.uni-freiburg.de</a>
+				</div>
+			</section>
+			<!-- <section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<span>+49 (xxx) xxx-xxxx</span>
+				</div>
+			</section> -->
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					
+					    Belfortstr. 18 Rooms 03 004-05<br />
+					
+					
+					    Freiburg,
+					
+					
+					    BW
+					
+					
+					    79098<br />
+					
+					
+					    Germany
+					
+					</span>
+				</div>
+			</section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				<li><a href="#contact" class="button icon fa-envelope" onclick="toggleContact()">Contact</a></li>
+				
+				<li><a href="https://twitter.com/zhong_daming" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+				<li><a href="https://github.com/readchina" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				
+				
+				
+				
+			</ul>
+			<div class="row uniform">
+				<div class="4u 12u$(small)">
+					<span class="image logo">
+						<a href="https://readchina.github.io/">
+						<img src="/assets/images/logo02-readc.png"/>
+						</a>
+					</span>
+				</div>
+				<div class="4u 12u$(small)">
+				<span class="image logo">
+					<a href="https://erc.europa.eu">
+					<img src="/assets/images/logo01-erc.jpg"/>
+					</a>
+				</span>
+				</div>
+				<div class="4u 12u$(small)">
+				<span class="image logo">
+					<a href="https://www.uni-freiburg.de">
+					<img src="/assets/images/logo03-uni-fb.png"/>
+					</a>
+				</span>
+				</div>
+				
+				<div class="4u 12u$(small)">
+				<span class="image logo">
+					<a href="https://www.diejungeakademie.de/start/">
+					<img src="/assets/images/logo04-jacad.png"/>
+					</a>
+				</span>
+				</div>
+				<div class="4u 12u$(small)">
+				<span class="image logo">
+					<a href="https://mwk.baden-wuerttemberg.de/de/startseite/">
+					<img src="/assets/images/logo05-mwk.png"/>
+					</a>
+				</span>
+				</div>
+				
+			</div>
+			<ul class="copyright">
+				<li>&copy; READCHINA The politics of reading in the PRC</li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+			</ul>
+		</div>
+	</footer>
+</div>
+
+<!-- Scripts -->
+	<script src="https://readchina.github.io/assets/js/jquery.min.js"></script>
+	<script src="https://readchina.github.io/assets/js/jquery.scrolly.min.js"></script>
+	<script src="https://readchina.github.io/assets/js/jquery.scrollex.min.js"></script>
+	<script src="https://readchina.github.io/assets/js/skel.min.js"></script>
+	<script src="https://readchina.github.io/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="https://readchina.github.io/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="https://readchina.github.io/assets/js/main.js"></script>
+
+
+</body>
+
+</html>
