@@ -4,7 +4,7 @@
 Our new website is currently located at `https://readchina.github.io` and build using [GitHub pages](https://pages.github.com). We use the excellent Jekyll version of the ["Forty" theme](https://github.com/andrewbanchich/forty-jekyll-theme) originally by [HTML5 UP](https://html5up.net/).  
 
 ## Requirements
-To preview and work on the website on your computer you need to have ruby `2` and jekyll `4` installed. If you run into issues with your installation please check the full [installation](https://jekyllrb.com/docs/installation/macos/) instructions by jekyll.
+To preview and work on the website on your computer you need to have ruby `2.4.0` or higher  (better to have v3.0.1) and jekyll `4` installed. If you run into issues with your installation please check the full [installation](https://jekyllrb.com/docs/installation/macos/) instructions by jekyll.
 
 If you maintain multiple sites, we recommend using [rbenv](https://github.com/rbenv/rbenv) to manage the parallel installation of mutliple ruby environments. 
 
@@ -35,13 +35,35 @@ You only need to do this once. Use `homebrew` to install the latest ruby.
     ```
 1.  Now install jekyll
     ```zsh
-    gem install --user-install bundler jekyll
+    gem install bundler jekyll
     ```
 
 Note: If you are still using `bash` instead of `zsh` type `brew info ruby` to see the correct command for your system.
 For `rbenv` users drop the `--user-install` flag when installing gems.
 
+### Upgrading with Homebrew
+
+The current stable version of ruby is 3.0.2.  You can check your ruby version with:
+
+```
+ruby -v
+```
+
+To upgrade to the latest rbenv and update ruby-build with newly released Ruby versions, upgrade the Homebrew packages:
+
+```
+$ brew upgrade rbenv ruby-build
+```
+
 ### Running locally
+
+Upon first installation or upgrading ruby to a new version, you should run:
+
+```
+bundle install 
+bundle update
+```
+
 If you have the necessary tools installed. Open this folder in your Terminal (CLI) and type the following.
 
 ```zsh
@@ -106,7 +128,7 @@ cd ~/Documents/Interventions
 - Alternativey open your terminal, and then drag-n-drop the word document into it using your mouse. 
 ```shell 
 pandoc ~/Desktop/Layout_test.docx -f docx -t markdown -o Layout_test.md
-``` 
+```
 
 ### Prepare the markdown file for publishing
 Once you have generated a markdown file, you can copy it into the `interventions/` folder in this repo. Remember that the file name will be part of its url, so pick something sensible, and without `whitespaces`, `&`, etc. 
