@@ -1,4 +1,4 @@
-name: Jekyll Deploy
+name: Build and deploy jekyll site
 
 on:
   push:
@@ -6,21 +6,53 @@ on:
       - master
 
 jobs:
-  build_and_deploy:
-    runs-on: ubuntu-latest
+  jekyll:
+    runs-on: ubuntu-latest 
     steps:
-      - name: GitHub Checkout
-        uses: actions/checkout@v1
-      - name: Bundler Cache
-        uses: actions/cache@v1
+      - name: 📂 setup
+        uses: actions/checkout@v2
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - name: Build & Deploy to GitHub Pages
-        uses: joshlarsen/jekyll4-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
-          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+          ruby-version: 3.0 
+
+      - name: 🔨 install dependencies & build site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+          format_output: true
+
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+
+# Old rubyv2 CI config
+
+# name: Jekyll Deploy
+
+# on:
+#   push:
+#     branches:
+#       - master
+
+# jobs:
+#   build_and_deploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: GitHub Checkout
+#         uses: actions/checkout@v1
+#       - name: Bundler Cache
+#         uses: actions/cache@v1
+#         with:
+#           path: vendor/bundle
+#           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+#           restore-keys: |
+#             ${{ runner.os }}-gems-
+#       - name: Build & Deploy to GitHub Pages
+#         uses: joshlarsen/jekyll4-deploy-gh-pages@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+#           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
