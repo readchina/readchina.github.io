@@ -35,7 +35,7 @@ You only need to do this once. Use `homebrew` to install the latest ruby.
     ```
 1.  Now install jekyll
     ```zsh
-    gem install --user-install bundler jekyll
+    gem install bundler jekyll
     ```
 
 Note: If you are still using `bash` instead of `zsh` type `brew info ruby` to see the correct command for your system.
@@ -57,10 +57,11 @@ $ brew upgrade rbenv ruby-build
 
 ### Running locally
 
-Since webrick is no longer a bundled gem in Ruby 3.0, the following command can help you add webrick (You only need to do this once before your run jekyll locally for the first time):
+Upon first installation or upgrading ruby to a new version, you should run:
 
 ```
-bundle add webrick
+bundle install 
+bundle update
 ```
 
 If you have the necessary tools installed. Open this folder in your Terminal (CLI) and type the following.
