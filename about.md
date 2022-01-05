@@ -17,7 +17,7 @@ See the [Team page](https://readchina.github.io/team) for details about the *REA
 - [Prof. Dr. Jennifer Altehenger](https://www.merton.ox.ac.uk/people/dr-jennifer-altehenger), Oxford University
 - [Prof. Dr. Robert J. Culp](https://www.bard.edu/faculty/details/?id=229), Bard College
 - [Dr. Xuelei Huang](https://www.ed.ac.uk/profile/xuelei-huang), University of Edinburgh
-- Sara Landa, M.A., Freiburg University
+- [Sara Landa, M.A.](https://www.worldmaking-china.org/en/people-2/staff/landa/index.html), Freiburg University and Heidelberg University
 - [Prof. Dr. Peidong Sun](https://www.sciencespo.fr/ceri/fr/users/peindongsun), CERI / Sciences Po Paris
 - [Prof. Dr. Nicolai Volland](https://asian.la.psu.edu/people/nmv10), Pennsylvania State University
 
