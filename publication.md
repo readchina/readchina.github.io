@@ -24,7 +24,7 @@ show_tile: true
 		<tr>
 			<td>Lin, Eve Y.</td>
 			<td>Between Avant-Garde and Kitsch: Intellectual Bookstores and China’s Reading Culture in Transformation</td>
-			<td>The Cultural Sociology of Reading, ed. Jeffrey Alexander, Philip Smith, David Inglis and Ron Eyerman (Cham: Palgrave Macmillan)              
+			<td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan)              
 			<td>forthcoming 2022</td>
 			<td></td>
 		</tr>
