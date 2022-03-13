@@ -22,6 +22,13 @@ show_tile: true
 		</thead>
 		<tbody>
 		<tr>
+			<td>Lin, Eve Y.</td>
+			<td>Between Avant-Garde and Kitsch: Intellectual Bookstores and China’s Reading Culture in Transformation</td>
+			<td>The Cultural Sociology of Reading, ed. Jeffrey Alexander, Philip Smith, David Inglis and Ron Eyerman (Cham: Palgrave Macmillan)              
+			<td>forthcoming 2022</td>
+			<td></td>
+		</tr>
+		<tr>
 			<td>Mandzunowski, Damian</td>
 			<td>Factory State of Mind: Spreading "Three Ardent Loves" via Collective Reading Activities in Tianjin, 1983-1985</td>
 			<td>Wissensorte in China, ed. Martin Hofmann, Virginia Leung, Joachim Kurtz (Wiesbaden: Harrassowitz)</td>
@@ -29,7 +36,13 @@ show_tile: true
 			<td></td>
 		</tr>
 		<tr>
-			<tr>
+			<td>Lin, Eve Y.</td>
+			<td>Cultural Biography of the “Avant-Garde”: Intellectual Bookstores and the Legacy of High Culture</td>
+			<td>Wissensorte in China, ed. Martin Hofmann, Virginia Leung, Joachim Kurtz (Wiesbaden: Harrassowitz)</td>
+			<td>forthcoming 2022</td>
+			<td></td>
+		</tr>
+		<tr>
 				<td>Henningsen, Lena</td>
 				<td>“Maple” as a Comic Book Adaption: Introduction to Text and Translation</td>
 				<td>MCLC Resource Center</td>
@@ -63,6 +76,13 @@ show_tile: true
 						rel="noopener noreferrer">LINK</a></td>
 			</tr>
 			<tr>
+				<td>Lin, Eve Y.</td>
+				<td>From Kant Back to Plato: Iris Murdoch’s Moral Philosophy on Love and Vision</td>
+				<td>Epoché Magazine (www.epochemagazine.org)</td>
+				<td>2021-5</td>
+				<td><a href="https://epochemagazine.org/40/from-kant-back-to-plato-iris-murdochs-moral-philosophy-on-love-and-vision/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
 				<td>Mandzunowski, Damian</td>
 				<td>Conference Report: Practices of Reading in the People’s Republic of China, 10.11.2020-26.01.2010 Freiburg</td>
 				<td>H-Soz-Kult</td>
@@ -86,6 +106,13 @@ show_tile: true
 				<td>MCLC Resource Center</td>
 				<td>2020-09-30</td>
 				<td><a href="https://u.osu.edu/mclc/log-in/" target="_blank" rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Lin, Eve Y.</td>
+				<td>Existentialist Hero Vs. Ordinary Langugage Man: Iris Murdoch Confronting Sartre and Wittgenstein</td>
+				<td>Epoché Magazine (www.epochemagazine.org)</td>
+				<td>2020-1</td>
+				<td><a href="https://epochemagazine.org/28/existentialist-hero-vs-ordinary-language-man-iris-murdoch-confronting-sartre-and-wittgenstein/" target="_blank" rel="noopener noreferrer">LINK</a></td>
 			</tr>
 			<tr>
 				<td>Henningsen, Lena</td>
