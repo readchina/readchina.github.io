@@ -17,14 +17,28 @@ show_tile: true
 				<th>Title</th>
 				<th>Source</th>
 				<th>Date</th>
-				<th>DOI / Link</th>
+				<th>DOI / ISBN / URL</th>
 			</tr>
 		</thead>
 		<tbody>
 		<tr>
+			<td>Henningsen, Lena</td>
+			<td>The Functions of Reading in Chinese Literature and Society</td>
+			<td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan)              
+			<td>forthcoming 2022</td>
+			<td></td>
+		</tr>
+		<tr>
 			<td>Lin, Eve Y.</td>
 			<td>Between Avant-Garde and Kitsch: Intellectual Bookstores and China’s Reading Culture in Transformation</td>
 			<td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan)              
+			<td>forthcoming 2022</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Henningsen, Lena</td>
+			<td>Fictional Texts as Sites of Knowledge: From Intertexts to Transtextuality</td>
+			<td>Wissensorte in China, ed. Martin Hofmann, Virginia Leung, Joachim Kurtz (Wiesbaden: Harrassowitz)</td>
 			<td>forthcoming 2022</td>
 			<td></td>
 		</tr>
@@ -57,6 +71,14 @@ show_tile: true
 				<td>2021-07-26</td>
 				<td><a href="https://u.osu.edu/mclc/online-series/maple/" target="_blank"
 						rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Henningsen, Lena</td>
+				<td>Cultural Revolution Manuscripts: Unofficial Entertainment Fiction from 1970s China</td>
+				<td>Basingstoke: Palgrave Macmillan</td>
+				<td>2021</td>
+				<td><a href="https://link.springer.com/book/10.1007/978-3-030-73383-4" target="_blank"
+						rel="noopener noreferrer">9783030733834</a></td>
 			</tr>
 			<tr>
 				<td>Mandzunowski, Damian</td>
@@ -147,6 +169,19 @@ show_tile: true
 				<td>2020-09-16</td>
 				<td><a href="https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future/" target="_blank"
 						rel="noopener noreferrer">LINK</a></td>
+			</tr>
+			<tr>
+				<td>Henningsen, Lena</td>
+				<td>Erinnerungen an den Kannibalismus und die Genese der modernen chinesischen Literatur</td>
+				<td>Battegay, Caspar, Lena Henningsen, Kai Wiegandt [ed.]: Gegessen? Essen und Erinnerung in den Literaturen der Welt, Berlin: Neofelis</td>
+				<td>2019</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>Henningsen, Lena, and Kai Wiegandt</td>
+				<td>Koreanische (Familien)Geschichte, Trauma und Entsagung: Han Kangs Die Vegetarierin (2007) und der Geschmack der Weltliteratur</td>
+				<td>Battegay, Caspar, Lena Henningsen, Kai Wiegandt [ed.]: Gegessen? Essen und Erinnerung in den Literaturen der Welt, Berlin: Neofelis, 325-344</td>
+				<td>2019</td>
 			</tr>
 			<tr>
 				<td>Henningsen, Lena</td>
