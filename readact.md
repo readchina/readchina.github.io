@@ -39,8 +39,6 @@ As of spring 2021, the focus of the *ReadAct* database is on reading acts during
 
 The analysis of the data thus may begin with a question about the titles read most widely at the time. (Or, to be more precise, about the titles that appear most often in written accounts of the time). The data shows that *The Water Margin* (*Shuihuzhuan* 水浒传) one of the classics of premodern Chinese fiction was most widely read, followed by two non-fictional books, both translations from English: *The New Class* by Djilas, and *The Rise and Fall of the Third Reich* by Shirer, both of which were only available at the time as internal publication. In theory, these texts were only available to cadres of the CCP – ReadAct demonstrates how porous this system had become as these texts circulated widely. As you go through the chart below, you may see that the other widely read titles similarly stem from Chinese and non-Chinese authors; also, while some were officially endorsed, many others were forbidden at the time, or only circulating internally.
 
-
-
 <div id="view1a" class="viz"> </div>
 
 Yet, reading can also take an extended sense, beyond the confines of literary works. We therefore took a closer look at other works of art, such as movies, paintings, or even music that was *read* according to the accounts of those remembering their life during the CR.
@@ -48,12 +46,14 @@ Yet, reading can also take an extended sense, beyond the confines of literary wo
 <div id="view1b" class="viz"> </div>
 
 The reading (or consumption) of other cultural products shows a similar pattern to the reading of “textual text”, as officially endorsed items were read side-by-side with others which were frowned upon, or condemned at the time (as, for example, *The Butterfly Violin Concerto*).
+
 ### Popular authors
 The previous views look at individual works, to determine popular creators, we need to group works belonging to the same author together. It should come as no surprise that Mao Zedong is the most popular creator of works being read within our data-set. However, looking at other popular choices, we see that next to Karl Marx (another usual suspect), Lu Xun and Alexandre Dumas are on equal footing.
 
 <div id="view2" class="viz"> </div>
 
 It seems that the classics, both Chinese and foreign, continued to be very popular – and that works that were officially labeled as “poisonous weeds” proved to be particularly inspiring reads, in spite of Cultural Revolutionary rhetoric.
+
 ## Conclusion
 As the result of compiling *ReadAct* we often found ourselves extending the scope of what we considered *reading*. To our knowledge few systematic studies of different types of reading have been conducted and even fewer have tried to formalize their typology in the way we have done. It is our hope that this typology can serve as a useful example for other researchers interested in the history of reading.
 
