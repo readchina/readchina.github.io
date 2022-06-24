@@ -3,7 +3,7 @@ layout: post
 title: Lara Y. Yang and Damian Mandzunowski will Present Papers at a Crisis & Materiality Symposium at The Ohio State Univ.
 ---
 
-<span class="image right"><img src="/assets/images/Ohio2022.png" alt="" title="" style=""></span>
+<span class="image left"><img src="/assets/images/Ohio2022.png" alt="" title="" style=""></span>
 
 READCHINA's [Lara Y. Yang](https://readchina.github.io/team/lara.html) and [Damian Mandzunowski](https://readchina.github.io/team/damian.html) will present papers at an online symposium at the Center for Historical Research at The Ohio State University titled __Media & Materiality: Category Crisis and Transitional Moments in East Asia and Eastern Europe__ held between March 3-5, 2022.
 

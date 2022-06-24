@@ -3,7 +3,7 @@ layout: post
 title: Talk by Nick Stember on Chinese Star Wars
 ---
 
-<span class="image right"><img src="/assets/images/READCHINA_StemberPoster.png" alt="" title="" style=""></span>
+<span class="image left"><img src="/assets/images/READCHINA_StemberPoster.png" alt="" title="" style="max-width: 220px"></span>
 
 The READCHINA project is happy to invite you to an upcoming talk by [Nick Stember](https://www.nickstember.com/) __on Tuesday 9 November 9, 2021, at 10:00 (UTC+1)__. The talk will be held online via Zoom; to receive a link, please register by sending an email to the READCHINA team [here](mailto:readchina.erc@gmail.com). The abstract of the talk follows below:
 

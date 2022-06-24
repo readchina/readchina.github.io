@@ -6,7 +6,7 @@ description: "FAIR Data Principles and Global Accessibility: A Case Study"
 
 <h3>{{ page.description }}</h3>
 
-<span class="image right"><img src="/assets/images/cats_lib.jpg"></span>
+<span class="image left"><img src="/assets/images/cats_lib.jpg"></span>
 
 [Matthias Arnold](https://www.asia-europe.uni-heidelberg.de/de/personen/person/persdetail/arnold.html), [Duncan Paterson](https://www.sinologie.uni-freiburg.de/Mitarbeiterinnen/projektmitarbeiterinnen/duncanpaterson) and [Jia Xie](https://www.researchgate.net/profile/Jia-Xie) presented the results of their research into practical implications of FAIR data principles in PRC research data platforms at the [41st Annual Conference of the European Association of Sinological Librarians](http://easl.org/min.html).
 
