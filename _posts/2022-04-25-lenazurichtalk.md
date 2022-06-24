@@ -3,7 +3,7 @@ layout: post
 title: Talk by Lena Henningsen in Zurich on Lei Feng in Chinese Comics as Model Reader
 ---
 
-<span class="image right"><img src="/assets/images/lena-zurich.jpg" alt="" title="" style=""></span>
+<span class="image left"><img src="/assets/images/lena-zurich.jpg" alt="" title="" style="max-width: 220px"></span>
 
 READCHINA's [Lena Henningsen](https://readchina.github.io/team/lena.html) will present her new research titled "Reading Lei Feng Reading: Propaganda and Intertextuality in Lianhuanhua Adaptations" during the lecture series *Other Epistemologies – Remapping the Literary Field in the Sinosphere* at the University of Zurich __on Thursday April 28, 2022, at 18:00 (CET/UTC+2)__.
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Call for Papers for Writing Chinese: A Journal of Contemporary Sinophone Literature'
 ---
 
-<span class="image left"><img src="/assets/images/writingchinese.png" alt="" title="" style=""></span>
+<span class="image right"><img src="/assets/images/writingchinese.png" alt="" title="" style=""></span>
 
 READCHINA's Principal Investigator [Lena Henningsen](https://www.sinologie.uni-freiburg.de/Mitarbeiterinnen/professorinnen/henningsen) is on the editorial board of a new open-access double-blind peer reviewed academic journal titled 'Writing Chinese: A Journal of Contemporary Sinophone Literature' -- and the [call for papers for its first issue](https://writingchinesejournal.org/announcement/) has just been announced!
 
