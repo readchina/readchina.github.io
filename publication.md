@@ -22,6 +22,14 @@ show_tile: true
 		</thead>
 		<tbody>
 		<tr>
+			<td>Mandzunowski, Damian</td>
+			<td>Book Review: Harriet Evans, <i>Beijing from Below: Stories of Marginal Lives in the Capital’s Center</i> (Durham: Duke University Press, 2020)</td>
+			<td>Historische Zeitschrift, vol. 315, no. 1, 131-133            
+			<td>2022-08-01</td>
+			<td><a href="https://www.degruyter.com/document/doi/10.1515/hzhz-2022-1262/html" target="_blank"
+					rel="noopener noreferrer">10.1515/hzhz-2022-1262</a></td>
+		</tr>
+		<tr>
 			<td>Henningsen, Lena</td>
 			<td>The Functions of Reading in Chinese Literature and Society</td>
 			<td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan)              
