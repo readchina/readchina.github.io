@@ -22,6 +22,13 @@ show_tile: true
 		</thead>
 		<tbody>
 		<tr>
+			<td>Henningsen, Lena</td>
+			<td>Narrating Sweet Bitterness: Tasting and Sensing the Chinese Cultural Revolution</td>
+			<td>Shengqing Wu, Xuelei Huang [eds.]: Sensing China: Modern Transformations of Sensory Culture (Abingdon: Routledge),174-198.        
+			<td>forthcoming 2023</td>
+			<td></td>
+		</tr>
+		<tr>
 			<td>Mandzunowski, Damian</td>
 			<td>Book Review: Harriet Evans, <i>Beijing from Below: Stories of Marginal Lives in the Capital’s Center</i> (Durham: Duke University Press, 2020)</td>
 			<td>Historische Zeitschrift, vol. 315, no. 1, 131-133            
