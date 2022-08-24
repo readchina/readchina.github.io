@@ -24,7 +24,7 @@ show_tile: true
 		<tr>
 			<td>Henningsen, Lena</td>
 			<td>Narrating Sweet Bitterness: Tasting and Sensing the Chinese Cultural Revolution</td>
-			<td>Shengqing Wu, Xuelei Huang [eds.]: Sensing China: Modern Transformations of Sensory Culture (Abingdon: Routledge),174-198.        
+			<td>Shengqing Wu, Xuelei Huang [eds.]: Sensing China: Modern Transformations of Sensory Culture (Abingdon: Routledge),174-198.</td>        
 			<td>forthcoming 2023</td>
 			<td></td>
 		</tr>
