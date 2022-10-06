@@ -27,7 +27,7 @@ Lei Feng" 向雷锋学习 means to mold one's own behavior on that of the
 model soldier, to embody his spirit and do good oneself to the point of
 self-abandonment and self-sacrifice.
 
-<span class="image right"><img src="/assets/images/LeiFengChairmanMaosGoodSoldier.jpg" alt="" title="" style="max-width: 220px"></span>
+![[Mao's Good Soldier](../assets/images/LeiFengChairmanMaosGoodSoldier.jpg)](../assets/images/LeiFengChairmanMaosGoodSoldier.jpg)
 
 In [this](https://chineseposters.net/posters/e39-791) 1963 poster, for example, Lei Feng is presented as "Chairman
 Mao's good soldier" 毛主席的好战士. He carries a weapon over his
@@ -63,7 +63,7 @@ of the time, in particular, the Chinese reception of Khrushchev's secret
 speech (1956). In it, Khrushchev criticized the cult of the individual
 built around Stalin in the Soviet Union. Mao, conversely, was convinced
 of the integrative and legitimizing functions of such a cult (Leese
-2013) and therefore and with the help of Lin Biao 林彪 and the PLA
+1)    and therefore and with the help of Lin Biao 林彪 and the PLA
 consciously crafted such a cult around himself and his writings. Despite
 the fact that his writings do not amount to a coherent ideology, Mao was
 elevated to the status of a theoretician, by means of picking out
@@ -75,13 +75,9 @@ good soldier", but could also be called "Chairman Mao's good reader"
 毛主席的好读者, which is also illustrated by widely circulating
 photographs of Lei Feng reading the works of Mao:
 
-<div class="box alt">
-	<div class="row uniform">
-		<div class="6u"><span class="image fit"><img src="{% link assets/images/LeiFengReading.png %}" alt="" /></span></div>
-    <div class="6u"><span class="image fit"><img src="{% link assets/images/QiaoAnshanReading.png %}" alt="" /></span></div>
-	  <p><i>The readers Lei Feng (left) and Qiao Anshan (right)</i>.</p>  
-	</div>
-</div>
+![[Lei Feng Reading](../assets/images/LeiFengReading.png)](../assets/images/LeiFengReading.png)
+
+![[Qiao Anshan Reading](../assets/images/QiaoAnshanReading.png)](../assets/images/QiaoAnshanReading.png)
 
 These carefully staged photographs build on visual representations of
 persons depicted as immersed in the reading of core ideological texts in
@@ -287,7 +283,7 @@ met with Mao once). While such a meeting never took place among the
 historical Mao and the historical Lei Feng, the reader of the diary is
 served a proxy meeting, as Mao appears twice in Lei Feng's dreams: once
 on February 22, 1961, and a second time on the night before July 1,
-1961. This dream elevates Lei Feng's spirits: After all, this was the
+1.    This dream elevates Lei Feng's spirits: After all, this was the
 night before the alleged fortieth anniversary of the founding of the
 CCP, and so from his dream he sets off on a eulogy on the greatness of
 the party and how much he owes to it. Predominantly, however, the
