@@ -1,6 +1,6 @@
 ---
 layout: 'post'
-title: '03: Chairman Mao’s Good Reader: Mise en abyme in The Diary of Lei Feng'
+title: '03: Chairman Mao’s Good Reader: Mise en abyme in <i>The Diary of Lei Feng</i>'
 author: 'Lena Henningsen'
 date: '2022-10-01'
 abstract: "Lei Feng is commonly known in China as a model soldier. To “learn from Lei Feng” meant to mold one’s own behavior on that of the model, to embody his spirit and do good oneself to the point of self-abandonment and self-sacrifice. Oftentimes, in visual media Lei Feng carries a rifle over his shoulder——and holds a copy of Mao Zedong’s Selected Works in his arm as his ideological weapon of sorts. This Intervention shows that reading figures prominently in the Lei Feng cult. The trope of reading is particularly powerful, as it creates a mise en abyme effect: The reading act represented in the narrative finds a mirror in the reading act of the diary reader; the narrative depicts a text which mirrors itself in the text that the reader of the diary holds in his or her hands."
@@ -63,7 +63,7 @@ of the time, in particular, the Chinese reception of Khrushchev's secret
 speech (1956). In it, Khrushchev criticized the cult of the individual
 built around Stalin in the Soviet Union. Mao, conversely, was convinced
 of the integrative and legitimizing functions of such a cult (Leese
-1)    and therefore and with the help of Lin Biao 林彪 and the PLA
+1) and therefore and with the help of Lin Biao 林彪 and the PLA
 consciously crafted such a cult around himself and his writings. Despite
 the fact that his writings do not amount to a coherent ideology, Mao was
 elevated to the status of a theoretician, by means of picking out
@@ -141,7 +141,7 @@ Lei Feng is taking Bethune as a model for his own life, similar to
 countless other models and heroes that inspire him throughout the diary,
 such as Zhang Xiuyun 张秀云 (2.11.1959), Fang Zhimin 方志敏 (27.12.1960,
 26.10.1961), Wang Ruofei 王若飞 (1.5.1961), Guan Chunman 关春满
-(2.5.1962), Bai Xiuli 白秀丽 (8.2.1962), Huang Jiguang黄继光
+(2.5.1962), Bai Xiuli 白秀丽 (8.2.1962), Huang Jiguang 黄继光
 (26.10.1961, 5.4.1962), Dong Cuirui 董存瑞 (26.10.1961) and Nie Er 聂耳
 (14.11.1960). Third, like the other models, Norman Bethune is heavily
 mediated as Lei Feng learns about him through the eulogy (i.e. an
@@ -283,7 +283,7 @@ met with Mao once). While such a meeting never took place among the
 historical Mao and the historical Lei Feng, the reader of the diary is
 served a proxy meeting, as Mao appears twice in Lei Feng's dreams: once
 on February 22, 1961, and a second time on the night before July 1,
-1.    This dream elevates Lei Feng's spirits: After all, this was the
+1961\. This dream elevates Lei Feng's spirits: After all, this was the
 night before the alleged fortieth anniversary of the founding of the
 CCP, and so from his dream he sets off on a eulogy on the greatness of
 the party and how much he owes to it. Predominantly, however, the
