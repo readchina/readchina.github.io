@@ -311,5 +311,5 @@ reader" oneself.
 - Lei Feng 雷锋. 1963. *The Diary of Lei Feng, 1959-1962* 雷锋日记 1959-1962. Beijing: Jiefangjun wenyishe.
 - Mao Zedong. 1980: *Talks at the Yan\'an Conference on Literature and Art*, edited and translated by Bonnie McDougall. Ann Arbor: Center for Chinese Studies, University of Michigan.
 - Tian Xiaofei. 2011. "The Making of a Hero: Lei Feng and Some Issues of Historiography." In *The People\'s Republic of China at 60: An International Assessment,* edited by William C. Kirby, 283-95. Cambridge: Harvard Asia Center.
-- Wagner, Rudolf G. 1995: "Life as a Quote from a Foreign Book. Love, Pavel, and Rita." In *Das andere China. Festschrift für Wolfgang Bauerzum 65. Geburtstag,* edited by Helwig Schmidt-Glintzer, 463-476. Wiesbaden: Harrassowitz.
+- Wagner, Rudolf G. 1995: "Life as a Quote from a Foreign Book. Love, Pavel, and Rita." In *Das andere China. Festschrift für Wolfgang Bauer zum 65. Geburtstag,* edited by Helwig Schmidt-Glintzer, 463-476. Wiesbaden: Harrassowitz.
 - Windscript, Shan. 2020. "How to Write a Diary in Communist China: Guidebooks in the Crafting of Socialist Subjectivities." *Modern China* 47/ 4, 412--447.
