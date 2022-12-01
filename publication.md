@@ -34,7 +34,7 @@ show_tile: true
    <td>Procedural challenges: the FAIR principles and PRC electronic resources - a case study of Chinese republican newspapers</td>
    <td>International Journal of Digital Humanities</td>
    <td>2022</td>
-   <td><a hre="https://doi.org/10.1007/s42803-022-00055-6" target="_blank" rel="noopener noreferrer">10.1007/s42803-022-00055-6</a></td>
+   <td><a href="https://doi.org/10.1007/s42803-022-00055-6" target="_blank" rel="noopener noreferrer">10.1007/s42803-022-00055-6</a></td>
   </tr>
   <tr>
    <td>Mandzunowski, Damian</td>
