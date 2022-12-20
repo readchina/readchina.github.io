@@ -30,6 +30,13 @@ show_tile: true
    <td></td>
   </tr>
   <tr>
+   <td>Mandzunowski, Damian</td>
+   <td>News Photography and Visual Political Communication in the People’s Republic of China, 1960s–1980s</td>
+   <td>ERCCS Research Notes, vol. 4</td>
+   <td>2022</td>
+   <td><a href="https://doi.org/10.25360/01-2022-00062" target="_blank" rel="noopener noreferrer">10.25360/01-2022-00062</a></td>
+  </tr>
+  <tr>
    <td>Arnold, Matthias; Paterson, Duncan; Xie Jia</td>
    <td>Procedural challenges: the FAIR principles and PRC electronic resources - a case study of Chinese republican newspapers</td>
    <td>International Journal of Digital Humanities</td>
@@ -47,16 +54,16 @@ show_tile: true
   <tr>
    <td>Henningsen, Lena</td>
    <td>The Functions of Reading in Chinese Literature and Society</td>
-   <td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan)</td>
-   <td>forthcoming 2022</td>
+   <td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan): 551-575</td>
+   <td>2022</td>
    <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-13227-8_19" target="_blank"
      rel="noopener noreferrer">10.1007/978-3-031-13227-8_19</a></td>
   </tr>
   <tr>
    <td>Lin, Eve Y.</td>
    <td>Between Avant-Garde and Kitsch: Intellectual Bookstores and China’s Reading Culture in Transformation</td>
-   <td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan)</td>
-   <td>forthcoming 2022</td>
+   <td>The Cultural Sociology of Reading, ed. María Angélica Thumala Olave (Cham: Palgrave Macmillan): 413-449</td>
+   <td>2022</td>
    <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-13227-8_15" target="_blank"
      rel="noopener noreferrer">10.1007/978-3-031-13227-8_15</a></td>
   </tr>
