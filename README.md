@@ -43,7 +43,7 @@ For `rbenv` users drop the `--user-install` flag when installing gems.
 
 ### Upgrading with Homebrew
 
-The current stable version of ruby is 3.0.2.  You can check your ruby version with:
+The current stable version of ruby is 3.1.3.  You can check your ruby version with:
 
 ```
 ruby -v
