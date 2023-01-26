@@ -1,6 +1,6 @@
 ---
 layout: 'post'
-title: '04: Who is the Reader? Common, Collective, Fictional, Second-Hand and Online Readers as Constructed Readers'
+title: '04: What is a Reader? Common, Collective, Fictional, Second-Hand and Online Readers as Constructed Readers'
 author: 'Eve Yi Lin, in dialogue with the READCHINA team'
 date: '2023-01-30'
 abstract: 'It is a truism that reading practices require reading matters and agents who read: readers. In this intervention we look at the various readers we encounter in our case studies and point to a selection of methodological or conceptual considerations for research into readers and reading practices. Eve Yi Lin kickstarts the discussion by an in-depth look at the “common readers” she finds in contemporary commercial bookstores. Then, in brief responses, the other READCHINA members discuss “collective,” “fictional,” “second-hand,” and “online” readers.'
