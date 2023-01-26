@@ -24,7 +24,7 @@ You only need to do this once. Use `homebrew` to install the latest ruby.
     ```
     or use `rbenv`:
     ```shell
-    rbenv install 2.7.2
+    rbenv install 3.2.0
     ```
 
     (rbenv is recommended for macOS on apple silicon)
