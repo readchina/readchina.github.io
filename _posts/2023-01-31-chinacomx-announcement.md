@@ -1,0 +1,13 @@
+---
+layout: post
+title: Lena Henningsen Receives Consolidator Grant from the ERC for a New Research Project on Chinese Comics!
+
+---
+
+We are very happy to share the news that Lena Henningsen has been awarded with her second grant from the European Research Council! The ERC Consolidator Grant is worth two million euros over a period of five years and is intended to fund a new research project on comic culture in the People’s Republic of China. “Comics Culture in the People’s Republic of China (CHINACOMX)” will commence from January 2024, after READCHINA has been wrapped - the REEADCHINA team congratulates our PI and collegue on this great occasion, and we are looking forward to expanding the ongoing inquiry into the history of reading into the field of comics!
+
+<span class="image right"><img src="{% link assets/images/CHINACOMX.jpg %}" alt="" /></span>
+
+Lena Henningsen and her team at CHINACOMX will analyze comics from the PRC with regard to Chinese and global comic culture – as well as the specific conditions of their production, circulation, and consumption. In the process, they will also address the question of whether and to what extent comics further the goals of state propaganda, such as the legitimization of the Communist Party of China, the creation of the “new socialist man,” and nation building – or whether they counteract these goals. In clearly circumscribed case studies, the project will analyze adaptations into comics from literature and film, the conventions of text-image relations (and the breaking of these conventions), narrative qualities, as well as the visual language of lianhuanhua which is very much indebted to other visual forms of art, including traditional Chinese visual art, cartoons, propaganda posters, photography and movies.
+
+With its focus on practices and meaning making, CHINACOMX moreover delves into the changing global cultural, political and economic connections within the socialist cultural sphere and beyond, tracing distinct and changing relationships of domestic and foreign elements. The project will cover developments since the late 1940s to the present and situate concrete phenomena within larger developments and traditions. “Our project has the goal of defining the term ‘Lianhuanhua’ as a distinct genre arising from a specific context as well as an independent research field,” says Henningsen, “similar to ‘manga’ or ‘bandes dessinées.’”
