@@ -4,7 +4,7 @@ title: Lena Henningsen Receives Consolidator Grant from the ERC for a New Resear
 
 ---
 
-We are very happy to share the news that Lena Henningsen has been awarded with her second grant from the European Research Council! The ERC Consolidator Grant is worth two million euros over a period of five years and is intended to fund a new research project on comic culture in the People’s Republic of China. “Comics Culture in the People’s Republic of China (CHINACOMX)” will commence from January 2024, after READCHINA has been wrapped - the REEADCHINA team congratulates our PI and collegue on this great occasion, and we are looking forward to expanding the ongoing inquiry into the history of reading into the field of comics!
+We are very happy to share the news that Lena Henningsen has been awarded with her second grant from the European Research Council! The ERC Consolidator Grant is worth two million euros over a period of five years and is intended to fund a new research project on comic culture in the People’s Republic of China. “Comics Culture in the People’s Republic of China (CHINACOMX)” will commence from January 2024, after READCHINA has been wrapped - the READCHINA team congratulates our PI and colleague on this great occasion, and we are looking forward to expanding the ongoing inquiry into the history of reading into the field of comics!
 
 <span class="image right"><img src="{% link assets/images/CHINACOMX.jpg %}" alt="" /></span>
 
