@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guest Talk by Lena Henningsen at the University of Oxford on 22.01.23
+title: Guest Talk by Lena Henningsen at the University of Oxford on 22.02.23
 ---
 
 On Wednesday, February 22, 2023, at 11:00 GMT, Lena Henningsen will deliver another guest lecture at the University of Oxford China Centre and the Oxford Research Centre in the Humanities, part of the ongoing UNDERSTANDING AUTHENTICITY IN CHINA’S CULTURAL HERITAGE SEMINAR SERIES, this time via Zoom. 
