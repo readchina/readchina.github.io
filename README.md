@@ -6,6 +6,8 @@ Our new website is currently located at `https://readchina.github.io` and build 
 ## Requirements
 To preview and work on the website on your computer you need to have ruby `2.4.0` or higher  (better to have v3.0.1) and jekyll `4` installed. If you run into issues with your installation please check the full [installation](https://jekyllrb.com/docs/installation/macos/) instructions by jekyll.
 
+On macOS 13 or higher, you also need to have 'Xcode' or 'Command Line Tools for Xcode' installed. As the full version of Xcode is quite heavy, having the command line tools installed is also sufficient. You can download the installation files [here](https://developer.apple.com/download/all/).
+
 If you maintain multiple sites, we recommend using [rbenv](https://github.com/rbenv/rbenv) to manage the parallel installation of mutliple ruby environments. 
 
 For processing word documents and transforming them into pdfs. We use [pandoc](https://pandoc.org/index.html):
