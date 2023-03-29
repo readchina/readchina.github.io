@@ -6,7 +6,7 @@ title: Book Launch for Edited Volume with Chapter by Lena Henningsen and Duncan 
 
 On **Monday, 15 May, from 15:00-17:00 UK time** we invite all collegues to join a hybrid format book launch event for a new edited volume titled Understanding [Authenticity in Chinese Cultural Heritage](https://www.routledge.com/Understanding-Authenticity-in-Chinese-Cultural-Heritage/Hein-Foster/p/book/9781032269894) with a chapter co-written by READCHINA's PI Lena Henningsen and Duncan Paterson, our Data Manager!
 
-The chapter co-written by our READCHINA collegues is titled *"Authenticity beyond Authority? The Case of Handwritten Entertainment Fiction from the Chinese Cultural Revolution"*.
+The chapter co-written by our READCHINA collegues is titled *"Authenticity beyond Authority? The Case of Handwritten Entertainment Fiction from the Chinese Cultural Revolution"* and can be read online or downloaded as PDF in OpenAccess [here](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003290834-22/authenticity-beyond-authority-case-handwritten-entertainment-fiction-chinese-cultural-revolution-lena-henningsen-duncan-paterson?context=ubx&refId=986d8178-ab7e-4493-afbd-5286f78cb932).
 
 <span class="image right"><img src="{% link assets/images/Understanding_Authenticity.png %}" alt="" /></span>
 
