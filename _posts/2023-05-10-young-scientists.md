@@ -3,7 +3,7 @@ layout: post
 title: Lena Henningsen Profiled in a New Children's Book about Research and Science
 ---
 
-As a member of [Die Junge Akademie](https://www.diejungeakademie.de/en), a network of young reseaerchers in Germany, Lena Henningsen has been profiled in a [new book for children](https://www.hanser-literaturverlage.de/buch/young-scientists/978-3-446-27579-9/)!. Titled "Young Scientists. 30 Forschende & Ihre Wege in die Wissenschaft" (Young Scientists: 30 Researchers and Their Paths Toward Science), the book collects the life stories of a wide range of researchers and scientists all working on fascinating new topics. 
+As a former member of the [German Young Academy / Die Junge Akademie](https://www.diejungeakademie.de/en), a network of young reseaerchers in Germany, Lena Henningsen has been profiled in a [new book for children](https://www.hanser-literaturverlage.de/buch/young-scientists/978-3-446-27579-9/)!. Titled "Young Scientists. 30 Forschende & Ihre Wege in die Wissenschaft" (Young Scientists: 30 Researchers and Their Paths Toward Science), the book collects the life stories of a wide range of researchers and scientists all working on fascinating new topics. 
 
 <span class="image right"><img src="{% link assets/images/YoungScientists_Cover.jpg %}" alt="" /></span>
 <span class="image left"><img src="{% link assets/images/YoungScientists_Henningsen.jpg %}" alt="" /></span>
