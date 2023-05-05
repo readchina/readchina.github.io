@@ -3,7 +3,7 @@ layout: post
 title: Oxford-Freiburg Workshop "Visual Cultures And Cultures of Reading in the PRC" on 18-19.05.2023
 ---
 
-The READCHINA Team is excited to jointly with [University of Oxford China Centre](https://www.chinacentre.ox.ac.uk/) organize a workshop for PhDs and ECRs titled "Visual Cultures And Cultures of Reading in the PRC", to be held at the Oxford University China Centre, Lucina Ho Seminar Room, on 18-19 May 2023! The workshop is a venue for sharing ongoing research with peers and collegues, as well as for exchanging comments, insights and ideas with new and old friends. 
+The READCHINA Team is excited to jointly with [University of Oxford China Centre](https://www.chinacentre.ox.ac.uk/) organize a workshop for PhDs and ECRs titled "Visual Cultures And Cultures of Reading in the PRC", to be held at the Oxford University China Centre, Lucina Ho Seminar Room, on 18-19 May 2023! The workshop is a venue for sharing ongoing research with peers and colleagues, as well as for exchanging comments, insights and ideas with new and old friends. 
 
 <span class="image right"><img src="{% link assets/images/OxfordFreiburg-Poster.png %}" alt="" /></span>
 
