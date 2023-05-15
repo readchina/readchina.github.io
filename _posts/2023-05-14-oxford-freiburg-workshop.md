@@ -36,4 +36,4 @@ The READCHINA Team is excited to jointly with [University of Oxford China Centre
 <br>1-2.30pm: Lunch
 <br>2.30-4pm: Panel 3
 <br>Xiaochu Wu: “It Follows: Camera Movement and the Affect of Despair in An Elephant Sitting Still”
-<br>Linqing Zhu: “Authentic Estrangement: Theatricalization, Artificiality and Jia Zhangke's Cinematic Realism”
+<br>Linqing Zhu: “Authentic Estrangement: Theatricalization, Artificiality and Jia Zhangke's Cinematic Realism” 
