@@ -12,6 +12,12 @@ view:
     view-index: 1
   - view-name: view2
     view-index: 2
+  - view-name: view5a
+    view-index: 4
+  - view-name: view5b
+    view-index: 5
+  - view-name: view5c
+    view-index: 6
 ---
 
 ## {{ page.title }}: Introduction
@@ -46,6 +52,18 @@ Yet, reading can also take an extended sense, beyond the confines of literary wo
 <div id="view1b" class="viz"> </div>
 
 The reading (or consumption) of other cultural products shows a similar pattern to the reading of “textual text”, as officially endorsed items were read side-by-side with others which were frowned upon, or condemned at the time (as, for example, *The Butterfly Violin Concerto*).
+
+### Reading acts with autobiography sources
+(The following chart: reading acts whose source has an "autobiography" source.)
+<div id="view5a" class="viz"> </div>
+
+### Reading acts with science fiction sources
+(The following chart: reading acts whose source has an "science fiction" source.)
+<div id="view5b" class="viz"> </div>
+
+### Reading acts with fictional sources
+(The following chart: reading acts whose source has a genre_type "fiction".)
+<div id="view5c" class="viz"> </div>
 
 ### Popular authors
 The previous views look at individual works, to determine popular creators, we need to group works belonging to the same author together. It should come as no surprise that Mao Zedong is the most popular creator of works being read within our data-set. However, looking at other popular choices, we see that next to Karl Marx (another usual suspect), Lu Xun and Alexandre Dumas are on equal footing.
