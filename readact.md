@@ -46,14 +46,9 @@ As of spring 2021, the focus of the *ReadAct* database is on reading acts during
 The analysis of the data thus may begin with a question about the titles read most widely at the time. (Or, to be more precise, about the titles that appear most often in written accounts of the time). The data shows that *The Water Margin* (*Shuihuzhuan* 水浒传) one of the classics of premodern Chinese fiction was most widely read, followed by two non-fictional books, both translations from English: *The New Class* by Djilas, and *The Rise and Fall of the Third Reich* by Shirer, both of which were only available at the time as internal publication. In theory, these texts were only available to cadres of the CCP – ReadAct demonstrates how porous this system had become as these texts circulated widely. As you go through the chart below, you may see that the other widely read titles similarly stem from Chinese and non-Chinese authors; also, while some were officially endorsed, many others were forbidden at the time, or only circulating internally.
 
 
-_____________________
-_____________________
-
 Yet, reading can also take an extended sense, beyond the confines of literary works. We therefore took a closer look at other works of art, such as movies, paintings, or even music that was *read* according to the accounts of those remembering their life during the CR.
 
 <div id="view1b" class="viz"> </div>
-_____________________
-_____________________
 
 
 The reading (or consumption) of other cultural products shows a similar pattern to the reading of “textual text”, as officially endorsed items were read side-by-side with others which were frowned upon, or condemned at the time (as, for example, *The Butterfly Violin Concerto*).
