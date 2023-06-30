@@ -1,0 +1,13 @@
+---
+layout: post
+title: New Translation by Damian Mandzunowski and Liu Chang Online Now in Revisiting the Revolution No. 3
+---
+
+The new issue of [Revisiting the Revolution](http://prchistory.org/revisiting-the-revolution-landing-page/) brings Liu Yajuan’s study of the “Zhang Shunyou Incident,” in which Liu connects local and central politics through a granular exploration of the making (and unmaking) of a national model. Initially published in June 2013 as 「张顺有事件」:一个典型的「树典型」个案 in 中央研究院近代史研究所集刊, 第84期 (2013): 159-200, the article reads between the lines of official narratives, revisiting often overlooked sources (such as local media outlets or comic strips) to inspect the relation between the individual and the collective in political campaigns. 
+
+<span class="image right"><img src="{% link assets/images/RtR-2023-3-Liu-Yajuan-1.jpg %}" alt="" /></span>
+
+Read the translated article online [here](http://prchistory.org/liu-yajuan-the-zhang-shunyou-incident-a-typical-case-for-the-practice-of-cultivating-models/), or download a PDF version [here](http://prchistory.org/wp-content/uploads/2023/06/RtR-2023-3-Liu-Yajuan.pdf).
+
+From the Translator's Introduction:
+>The historian Carlo Ginzburg once wrote that his particular approach to narrating the past in great detail was inspired by Leo Tolstoy’s “conviction that a historical phenomenon can become comprehensible only by reconstructing the activities of all the persons who participated in it.” In a similar way Liu Yajuan, in a new postscript written at the occasion of the present translation of her article, acknowledges that, while common people may have only little direct impact on big historical events, it was them who actually lived day-by-day through the periods we are researching. And so, Liu’s article narrates the ups-and-downs in the life of a smalltown worker in the early People’s Republic of China (PRC)—while, at the same time, also presenting a detailed case-study of Chinese Communist Party (CCP) propaganda work in the 1950s, in particular during the “Three Anti” and “Five Anti” campaigns of 1951-52. By retelling how one rural worker’s attempt to denounce his former boss for counterrevolutionary crimes is met with indifference on the part of local bureaucrats, and by showing how the repeated setbacks resulted in his story getting picked up by regional and even national propaganda apparatuses, Liu urges the reader to think about the ways common life and grand politics intertwine. Moreover, by burrowing into a dozen regional and local newspapers from across the country, Liu draws on media sociology’s attention to the historical process in order to shed new light on the machinations behind the production of political role models in the PRC. 
