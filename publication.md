@@ -27,42 +27,42 @@ show_tile: true
    <td>Fictional Texts as Sites of Knowledge: From Intertexts to Transtextuality</td>
    <td>Martin Hofmann, Joachim Kurtz [eds.]: Wissensorte in China, Wiesbaden: Harrassowitz, 311-328</td>
    <td>2023</td>
-   <td><a href="https://www.harrassowitz-verlag.de/Wissensorte_in_China/titel_7372.ahtml" target="_blank" rel="noopener noreferrer">9783447121255</td>
-  </tr>
-  <tr>
-   <td>Mandzunowski, Damian</td>
-   <td>Factory State of Mind: Spreading "Three Ardent Loves" via Collective Reading Activities in Tianjin, 1983-1985</td>
-   <td>Martin Hofmann, Joachim Kurtz [eds.]: Wissensorte in China, Wiesbaden: Harrassowitz, 165-192</td>
-   <td>2023</td>
-   <td><a href="https://www.harrassowitz-verlag.de/Wissensorte_in_China/titel_7372.ahtml" target="_blank" rel="noopener noreferrer">9783447121255</td>
+   <td><a href="https://www.harrassowitz-verlag.de/Wissensorte_in_China/titel_7372.ahtml" target="_blank" rel="noopener noreferrer">9783447121255</a></td>
   </tr>
   <tr>
    <td>Lin, Eve Y.</td>
    <td>Cultural Biography of the “Avant-Garde”: Intellectual Bookstores and the Legacy of High Culture</td>
    <td>Martin Hofmann, Joachim Kurtz [eds.]: Wissensorte in China, Wiesbaden: Harrassowitz, 241-266</td>
    <td>2023</td>
-   <td><a href="https://www.harrassowitz-verlag.de/Wissensorte_in_China/titel_7372.ahtml" target="_blank" rel="noopener noreferrer">9783447121255</td>
+   <td><a href="https://www.harrassowitz-verlag.de/Wissensorte_in_China/titel_7372.ahtml" target="_blank" rel="noopener noreferrer">9783447121255</a></td>
+  </tr>
+  <tr>
+   <td>Mandzunowski, Damian</td>
+   <td>Factory State of Mind: Spreading "Three Ardent Loves" via Collective Reading Activities in Tianjin, 1983-1985</td>
+   <td>Martin Hofmann, Joachim Kurtz [eds.]: Wissensorte in China, Wiesbaden: Harrassowitz, 165-192</td>
+   <td>2023</td>
+   <td><a href="https://www.harrassowitz-verlag.de/Wissensorte_in_China/titel_7372.ahtml" target="_blank" rel="noopener noreferrer">9783447121255</a></td>
   </tr>
   <tr>
    <td>Henningsen, Lena</td>
    <td>A Bing (阿炳1893-1950) – The Making of China’s Greatest Folk Musician</td>
    <td>Jessica Harrison-Hall, Julia Lovell [eds.]: Creators of Modern China: 100 Lives from Empire to Republic 1796–1912 (London: Thames and Hudson), 317-320.</td>
    <td>2023</td>
-   <td><a href="https://thamesandhudson.com/creators-of-modern-china-100-lives-from-empire-to-republic-17961912-british-museum-9780500480809" target="_blank" rel="noopener noreferrer">9780500480809</td>
+   <td><a href="https://thamesandhudson.com/creators-of-modern-china-100-lives-from-empire-to-republic-17961912-british-museum-9780500480809" target="_blank" rel="noopener noreferrer">9780500480809</a></td>
   </tr>
   <tr>
    <td>Henningsen, Lena</td>
    <td>Narrating Sweet Bitterness: Tasting and Sensing the Chinese Cultural Revolution</td>
    <td>Shengqing Wu, Xuelei Huang [eds.]: Sensing China: Modern Transformations of Sensory Culture (Abingdon: Routledge),174-198.</td>
    <td>2023</td>
-   <td><a href="https://www.routledge.com/Sensing-China-Modern-Transformations-of-Sensory-Culture/Wu-Huang/p/book/9781032008776" target="_blank" rel="noopener noreferrer">9781032008776</td>
+   <td><a href="https://www.routledge.com/Sensing-China-Modern-Transformations-of-Sensory-Culture/Wu-Huang/p/book/9781032008776" target="_blank" rel="noopener noreferrer">9781032008776</a></td>
   </tr>
   <tr>
    <td>Henningsen, Lena</td>
    <td>Reading World Literature in Chinese Science Fiction</td>
    <td>Yingjin Zhang [ed.]: A World History of Chinese Literature (Abingdon: Routledge), 196-206.</td>
    <td>2023</td>
-   <td><a href="https://www.routledge.com/A-World-History-of-Chinese-Literature/Zhang/p/book/9780367764883" target="_blank" rel="noopener noreferrer">9780367764883</td>
+   <td><a href="https://www.routledge.com/A-World-History-of-Chinese-Literature/Zhang/p/book/9780367764883" target="_blank" rel="noopener noreferrer">9780367764883</a></td>
   </tr>
    <tr>
    <td>Mandzunowski, Damian and Liu Chang</td>
@@ -76,7 +76,7 @@ show_tile: true
    <td>Authenticity beyond Authority? The Case of Handwritten Entertainment Fiction from the Chinese Cultural Revolution</td>
    <td>Anke Hein and Christopher J. Foster [eds.]: Understanding Authenticity in Chinese Cultural Heritage (Abingdon: Routledge), 263-275</td>
    <td>2023</td>
-   <td><a href="https://www.routledge.com/Understanding-Authenticity-in-Chinese-Cultural-Heritage/Hein-Foster/p/book/9781032269894" target="_blank" rel="noopener noreferrer">9781032269894</td>
+   <td><a href="https://www.routledge.com/Understanding-Authenticity-in-Chinese-Cultural-Heritage/Hein-Foster/p/book/9781032269894" target="_blank" rel="noopener noreferrer">9781032269894</a></td>
   </tr>
   <tr>
    <td>Mandzunowski, Damian</td>
