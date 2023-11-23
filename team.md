@@ -18,16 +18,13 @@ nav-menu: true
                 <ul>
                     <li>Baigulahu Wang</li>
                 </ul>
-                <h3>Current Research Assistants:</h3>
-                <ul>
-                    <li>Qin Gu</li>
-                    <li>Bettina Jin</li>
-                </ul>
-                <h3>Former Research Assistants:</h3>
+                <h3>Research Assistants:</h3>
                 <ul>
                     <li>Shaoqi Chen</li>
+                    <li>Qin Gu</li>
                     <li>Mira Grünwald</li>
                     <li>Wenxin Huang</li>
+                    <li>Bettina Jin</li>
                     <li>Joschua Seiler</li>
                     <li>Maryna Yanhirava</li>
                     <li>Ruohan Zhou</li>
