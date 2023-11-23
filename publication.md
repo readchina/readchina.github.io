@@ -68,7 +68,7 @@ show_tile: true
    <td>Mandzunowski, Damian and Liu Chang</td>
    <td>Translation: Liu Yajuan , The “Zhang Shunyou Incident”: A Typical Case for the “Practice of Cultivating Models”「张顺有事件」：一个典型的「树典型」个案</td>
    <td>REVISITING THE REVOLUTION 3, 1-60</td>
-   <td>June 28, 2023</td>
+   <td>28 June 2023</td>
    <td><a href="http://prchistory.org/liu-yajuan-the-zhang-shunyou-incident-a-typical-case-for-the-practice-of-cultivating-models/" target="_blank" rel="noopener noreferrer">LINK</a></td>
   </tr>
    <tr>
@@ -158,6 +158,14 @@ show_tile: true
    <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-13227-8_15" target="_blank"
      rel="noopener noreferrer">10.1007/978-3-031-13227-8_15</a></td>
   </tr>
+  <tr>
+    <td>Tianyue Wang, Tanda Li, Lijing Zhu, Zhengtang Ma, and Damian Mandzunowski</td>
+    <td>Translation: Xu Beihong 徐悲鴻 "Huo 惑 In Question"</td>
+    <td>Činio en Traduko, 1-8</td>
+    <td>2021-08-31</td>
+    <td><a href="https://cinioentraduko.com/2021/08/31/inquestion-xubeihong/" target="_blank"
+      rel="noopener noreferrer">LINK</a></td>
+   </tr>
   <tr>
     <td>Henningsen, Lena</td>
     <td>“Maple” as a Comic Book Adaption: Introduction to Text and Translation</td>
