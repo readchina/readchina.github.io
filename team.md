@@ -1,7 +1,7 @@
 ---
 title: Team
 layout: landing
-description: 'Meet our Team'
+description: 'Read here a word or two about the READCHINA team'
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
         <div class="row">
             <div class="8u 12u$(medium)">
                 <span class="image fit"><img src="/assets/images/Gruppenfoto_3.JPG" alt=""
-                        data-position="25% 25%"></span>
+                        data-position="25% 25%"><i>The READCHINA team with our research assistants and our administrator in July 2019</i></span>
             </div>
             <div class="4u$ 12u$(medium)">
                 <h3>Administration:</h3>
@@ -21,11 +21,13 @@ nav-menu: true
                 <h3>Research Assistants:</h3>
                 <ul>
                     <li>Shaoqi Chen</li>
-                    <li>Mira Grünwald</li>
                     <li>Qin Gu</li>
+                    <li>Mira Grünwald</li>
                     <li>Wenxin Huang</li>
+                    <li>Bettina Jin</li>
                     <li>Joschua Seiler</li>
                     <li>Maryna Yanhirava</li>
+                    <li>Ruohan Zhou</li>
                 </ul>
             </div>
         </div>
@@ -42,22 +44,6 @@ nav-menu: true
                 <p>Meta-reading, reading fiction and fictional reading.</p>
                 <ul class="actions">
                     <li><a href="team/lena.html" class="button">Read more</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="4u 12u$(medium)">
-                <a href="team/dayton.html" class="image fit">
-                    <img src="{% link /assets/images/DaytonLekner.jpg %}" alt="" data-position="25% 25%" />
-                </a>
-            </div>
-            <div class="8u$ 12u$(medium)">
-                <header class="major">
-                    <h3>Dayton Lekner</h3>
-                </header>
-                <p>Sound, hearing, and social history</p>
-                <ul class="actions">
-                    <li><a href="team/dayton.html" class="button">Read more</a></li>
                 </ul>
             </div>
         </div>
@@ -122,6 +108,23 @@ nav-menu: true
                 <p>Material traces or reading, reading used books</p>
                 <ul class="actions">
                     <li><a href="team/lara.html" class="button">Read more</a></li>
+                </ul>
+            </div>
+        </div>
+        <p><h4>Research Collaborators</h4></p>
+         <div class="row">
+            <div class="4u 12u$(medium)">
+                <a href="team/dayton.html" class="image fit">
+                    <img src="{% link /assets/images/DaytonLekner.jpg %}" alt="" data-position="25% 25%" />
+                </a>
+            </div>
+            <div class="8u$ 12u$(medium)">
+                <header class="major">
+                    <h3>Dayton Lekner (2021-2023)</h3>
+                </header>
+                <p>Sound, hearing, and social history</p>
+                <ul class="actions">
+                    <li><a href="team/dayton.html" class="button">Read more</a></li>
                 </ul>
             </div>
         </div>
