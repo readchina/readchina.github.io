@@ -1,17 +1,17 @@
 # site settings
 title: READCHINA
 subtitle: The politics of reading in the PRC
-email: readchina@mail.sinologie.uni-freiburg.de
-description: "A research project conducted by Lena Henningsen and the READCHINA team at the University of Freiburg. This project receives funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 757365)"
+# email: 
+description: "A research project conducted by Lena Henningsen and the READCHINA team at the University of Freiburg from 2018-2023. This project received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 757365)"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://readchina.github.io
 author: READCHINA
-street_address: Belfortstr. 18 Rooms 03 004-05
-city: Freiburg
-state: BW
-zip_code: 79098
-country: Germany
-phone: +49 (xxx) xxx-xxxx
+# street_address: 
+# city: 
+# state: 
+# zip_code: 
+# country: 
+# phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
